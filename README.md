@@ -1,2 +1,2 @@
 # Wine_Price_Prediction
-Machine Learning model for predicting wine prices using CatBoost
+Huấn luyện mô hình dự báo đánh giá rượu vang qua đó giúp người mua người bán có thể đưa ra chiến lược cụ thể trong việc kinh doanh bằng các mô hình học máy cơ bản như RF, CatBoost,...
