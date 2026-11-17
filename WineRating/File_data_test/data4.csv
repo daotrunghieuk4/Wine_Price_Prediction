@@ -1,0 +1,961 @@
+Name,Country,Region,Winery,Rating,NumberOfRatings,Price,Year,WineStyle
+Primitivo di Manduria 2018,Italy,Primitivo di Manduria,Capo Zafferano,3.9,588,11.17,2018,Red
+Reserva Selección de la Familia 2015,Spain,Rioja,Luis Cañas,4.2,74,16.75,2015,Red
+Reserva 2010,Spain,Cariñena,Jordán de Asso,3.7,39,18.79,2010,Red
+Cuvée Juveniles 2015,Australia,Barossa,Torbreck,3.7,434,27.5,2015,Red
+Barolo Rocche di Castiglione 2015,Italy,Barolo,Vietti,4.3,34,169.0,2015,Red
+Estate Rüdesheim Riesling 2018,Germany,Rüdesheim,Georg Breuer,3.8,105,13.8,2018,
+Sauvignon Blanc 2017,Spain,La Mancha,Costa Azul,3.2,131,5.53,2017,
+Chardonnay 2018,Italy,delle Venezie,Casa Lunardi,3.5,30,5.95,2018,
+Lena Salice Salentino Riserva 2015,Italy,Salice Salentino,Colle Al Vento,3.8,26,7.71,2015,Red
+Vigna di Sessina Chianti Classico Gran Selezione 2015,Italy,Chianti Classico,Dievole,4.4,117,42.0,2015,Red
+Izarbe Gran Reserva 2006,Spain,Rioja,Larchago,4.3,31,28.9,2006,Red
+Saint-Émilion Grand Cru (Grand Cru Classé) 2005,France,Saint-Émilion Grand Cru,Château Clos Saint Martin,4.2,48,179.95,2005,Red
+Weisser Burgunder Trocken 2018,Germany,Rheinhessen,Bischel,3.7,31,8.2,2018,
+Palmenti Primitivo di Manduria Vigne Vecchie 2015,Italy,Primitivo di Manduria,Masseria Pietrosa,4.2,325,50.69,2015,Red
+Clos de Vougeot Grand Cru 2012,France,Clos Vougeot Grand Cru,Joseph Drouhin,4.5,27,190.09,2012,Red
+La Clape (Grand Vin) Rouge 2017,France,La Clape,Château d'Anglès,3.8,26,16.95,2017,Red
+Pinot Noir 2016,New Zealand,Marlborough,Cloudy Bay,3.9,1163,39.95,2016,Red
+Cuvée Tradition Côtes de Provence 2017,France,Côtes de Provence,Domaine les Fouques,4.1,35,11.65,2017,Red
+Cellar Selection Sauvignon Blanc 2018,South Africa,Western Cape,Kleine Zalze,3.6,202,9.5,2018,
+Saint-Estephe de Calon-Ségur 2014,France,Saint-Estèphe,Château Calon-Ségur,3.6,67,28.83,2014,Red
+Vigna del Sorbo Gran Selezione Chianti Classico 2011,Italy,Chianti Classico,Fontodi,4.2,493,39.95,2011,Red
+Côte de Rouffach Gewürztraminer 2016,France,Alsace,René Muré,3.9,44,15.5,2016,
+Faß 12 Ayler Kupp Unterstenberg Riesling 2018,Germany,Mosel,Peter Lauer,4.1,40,21.94,2018,
+Empordà Finca Malaveïna 2016,Spain,Empordà,Castillo Perelada,4.2,470,29.84,2016,Red
+Belleruche Côtes-du-Rhône Blanc 2019,France,Côtes-du-Rhône,M. Chapoutier,3.7,79,10.47,2019,
+Brolio Chianti Classico Riserva 2016,Italy,Chianti Classico,Ricasoli,4.1,557,20.29,2016,Red
+Cabernet Sauvignon 2015,South Africa,Swartland,Allesverloren,3.7,558,14.9,2015,Red
+Puro Malbec 2018,Argentina,Mendoza,Dieter Meier,3.9,503,15.49,2018,Red
+R de Rieussec 2017,France,Bordeaux,Château Rieussec,3.7,110,30.62,2017,
+Sauvignon Blanc 2018,South Africa,Western Cape,Laborie,3.6,440,6.84,2018,
+Sauvignon Blanc (Warrelwind) 2019,South Africa,Western Cape,MAN,3.6,29,5.49,2019,
+Barolo Aeroplan Servaj 2007,Italy,Barolo,Domenico Clerico,4.2,93,110.74,2007,Red
+Castel Ringberg Sauvignon 2018,Italy,Südtirol - Alto Adige,Elena Walch,3.8,32,19.3,2018,
+The Ironstone Pressings 2016,Australia,McLaren Vale,d'Arenberg,3.7,39,35.5,2016,Red
+Crianza 2014,Spain,Rioja,Cune (CVNE),3.5,6880,5.7,2014,Red
+Shiraz 2018,Australia,South Eastern Australia,Barramundi,3.2,100,6.5,2018,Red
+Kai Carmenère 2011,Chile,Aconcagua Valley,Errazuriz,4.4,246,121.75,2011,Red
+Weisser Burgunder Trocken 2015,Germany,Rheinhessen,Wittmann,3.7,31,11.11,2015,
+Varietales Graciano Rioja 2016,Spain,Rioja,Baron de Ley,3.7,302,15.99,2016,Red
+Chianti Classico 2018,Italy,Chianti Classico,San Felice,3.6,80,9.65,2018,Red
+Jesuitengarten GG 2012,Germany,Pfalz,Reichsrat von Buhl,4.3,83,42.0,2012,
+Silvestre Carmenère 2016,Chile,Rapel Valley,Ochagavia,3.7,50,8.44,2016,Red
+Canteperdrix Rouge 2015,France,Ventoux,Demazet,3.4,75,5.48,2015,Red
+Montserre Chablis 2017,France,Chablis,Château de Béru,4.2,49,35.0,2017,
+Sito Moresco Langhe 2016,Italy,Langhe,Gaja,4.1,1561,41.9,2016,Red
+Sémillon 2017,South Africa,Franschhoek,Boekenhoutskloof,3.9,58,25.5,2017,
+Varietales Trio Red Blend 2018,Spain,Cariñena,Bodegas Care,3.5,60,5.4,2018,Red
+Meursault Premier Cru 'Les Charmes' 2017,France,Meursault 1er Cru 'Charmes',Domaine du Pavillon,4.2,42,70.0,2017,
+Da Vinci Chianti 2017,Italy,Chianti,Cantine Leonardo da Vinci,3.5,1218,7.5,2017,Red
+Barrica Tinto (Monastrell - Syrah) 2017,Spain,Yecla,Barahonda,3.9,811,7.75,2017,Red
+Forster Ungeheuer Ziegler 2017,Germany,Rheinhessen,Dr. Von Bassermann-Jordan,3.9,69,23.79,2017,
+Roquers de Porrera 2013,Spain,Priorat,L'Encastell,4.2,236,41.71,2013,Red
+The Long Walk Pinotage Rosé 2019,South Africa,Western Cape,Footprint,3.6,67,5.95,2019,
+Brauneberger Juffer Riesling Kabinett 2016,Germany,Brauneberg,Schloss Lieser,3.8,125,14.5,2016,
+Pinot Noir 2017,Italy,Sicilia,Stemmari,3.7,367,5.79,2017,Red
+Leiwener Riesling Trocken 2018,Germany,Mosel,Josef Rosch,3.9,86,8.69,2018,
+Bandol Rouge 2011,France,Bandol,Domaine de la Tour du Bon,4.0,43,35.9,2011,Red
+Selected Vines Malbec (Barrancas Vineyards) 2017,Argentina,Mendoza,Pascual Toso,4.0,134,15.16,2017,Red
+Venezia Giulia Cabernet Sauvignon 2017,Italy,Venezia Giulia,Lis Neris,4.0,286,20.95,2017,Red
+Saint-Émilion Grand Cru 2005,France,Saint-Émilion Grand Cru,Lynsolence,4.2,64,58.95,2005,Red
+Lou Coucardié Rouge 2014,France,Costières-de-Nîmes,Michel Gassier,4.0,129,24.09,2014,Red
+Brut Rosé Champagne N.V.,France,Champagne,Ruinart,4.3,11756,63.28,N.V.,
+Gavi Valentino 2019,Italy,Gavi,La Scolca,3.8,36,12.49,2019,
+Chardonnay - Torrontés 2019,Argentina,Tupungato,Domaine Bousquet,3.5,30,7.2,2019,
+Sauvignon Blanc 2019,South Africa,Constantia,Buitenverwachting,4.2,210,8.95,2019,
+Ripasso 2017,Italy,Valpolicella Ripasso,Villa Cavarena,3.8,205,17.29,2017,Red
+Zweigelt 2018,Austria,Burgenland,Umathum,3.6,27,10.93,2018,Red
+Cadillac - Côtes de Bordeaux (Premières Côtes de Bordeaux) 2014,France,Cadillac - Côtes de Bordeaux,Château de Ricaud,3.7,379,11.3,2014,Red
+Weisser Burgunder Trocken (Pinot Blanc Dry) 2018,Germany,Pfalz,Ökonomierat Rebholz,3.5,39,11.9,2018,
+Reserva Sauvignon Blanc 2019,Chile,Central Valley,Caliterra,3.7,45,8.32,2019,
+Barolo La Serra 2014,Italy,Barolo,Mauro Molino,4.2,130,48.64,2014,Red
+Gamlitzer Morillon 2017,Austria,Südsteiermark,Sattlerhof,3.6,30,15.89,2017,
+Scharzhofberger Riesling Auslese 2015,Germany,Wiltingen,Egon Müller - Scharzhof,4.5,126,355.8,2015,
+Roda Reserva Rioja 2016,Spain,Rioja,Bodegas Roda,3.9,152,25.9,2016,Red
+Sassicaia 1999,Italy,Bolgheri Sassicaia,Tenuta San Guido,4.7,1637,632.64,1999,Red
+Le Origini Amarone della Valpolicella Classico Riserva 2013,Italy,Amarone della Valpolicella Classico,Bolla,4.1,536,49.95,2013,Red
+Ermitage l'Ermite 2004,France,Hermitage,M. Chapoutier,4.4,64,178.8,2004,Red
+Bordeaux 2013,France,Bordeaux,Domaine de Valmengaux,3.9,35,16.47,2013,Red
+Cecilia B Spumante Rosé N.V.,Italy,Vino d'Italia,Cecilia Beretta,4.0,764,9.59,N.V.,
+Fossati Barolo 2015,Italy,Barolo,Enzo Boglietti,4.0,33,72.62,2015,Red
+Spätburgunder 2017,Germany,Pfalz,Rings,3.6,128,11.5,2017,Red
+GG Eichberg Spätburgunder 2013,Germany,Baden,Salwey,3.9,33,36.5,2013,Red
+Vernaccia di San Gimignano Riserva 2012,Italy,Vernaccia di San Gimignano,Panizzi,4.0,144,19.4,2012,
+Châteauneuf-du-Pape 2016,France,Châteauneuf-du-Pape,Château Maucoil,4.2,394,33.13,2016,Red
+Toscana Bianco 2016,Italy,Toscana,Ornellaia,4.5,56,251.23,2016,
+Negroamaro I Muri 2018,Italy,Puglia,Vigneti del Salento,3.9,681,4.95,2018,Red
+Les Hauts de Naudon Bordeaux Supérieur 2016,France,Bordeaux Supérieur,Château Pierrail,3.8,120,8.95,2016,Red
+Russiz Superiore Col Disôre Bianco Collio 2016,Italy,Collio,Marco Felluga,4.3,41,35.99,2016,
+Sauvignon Blanc 2016,Portugal,Bairrada,Quinta do Ortigao,3.6,66,9.75,2016,
+Steiner 2013,Hungary,Sopron,Weninger,3.7,100,24.5,2013,Red
+Petit Verdot 2016,France,Bordeaux,Château Belle-Vue,3.7,71,29.15,2016,Red
+Periquita Tinto (Original) 2018,Portugal,Península de Setúbal,José Maria da Fonseca,3.7,937,6.5,2018,Red
+Kiké 2019,Italy,Terre Siciliane,Fina,4.2,369,9.65,2019,
+Spätburgunder G 2015,Germany,Ahr,Meyer - Näkel,3.8,39,17.5,2015,Red
+Königsbecher Pinot Noir GG 2011,Germany,Baden,Heitlinger,3.6,37,28.09,2011,Red
+Grand Grenache Gigondas 2012,France,Gigondas,Domaine Santa Duc,4.0,133,45.0,2012,Red
+Riesling 2018,Germany,Pfalz,Von Winning,3.8,552,8.5,2018,
+Roble 2018,Spain,Ribera del Duero,Bodegas Vilano,3.8,414,8.1,2018,Red
+Pauillac (Grand Cru Classé) 2005,France,Pauillac,Château Haut-Batailley,4.2,482,79.95,2005,Red
+Crianza 2016,Spain,Rioja,Luis Cañas,3.8,2123,8.85,2016,Red
+Signature Chardonnay 2019,South Africa,Stellenbosch,Spier,3.6,155,6.95,2019,
+Splattered Toad Sauvignon Blanc 2018,South Africa,Coastal Region,Cape Point Vineyards,3.3,32,9.95,2018,
+Silvaner Trocken 2018,Germany,Franken,Juliusspital,3.6,101,10.59,2018,
+Casetta Valdadige Terradeiforti Foja Tonda 2014,Italy,Valdadige Terradeiforti,Albino Armani,3.8,57,12.9,2014,Red
+Kékfrankos Reserve 2015,Hungary,Villány,Heumann,3.7,36,18.9,2015,Red
+Galea Vernatsch 2018,Italy,Südtirol - Alto Adige,Nals Margreid,3.4,28,10.63,2018,Red
+Bourgogne Cuvée Margot 2015,France,Bourgogne,Olivier Leflaive,3.7,748,22.9,2015,Red
+Crianza 2015,Spain,Toro,Muruve,3.8,26,10.51,2015,Red
+Edición Limitada A 2016,Chile,Colchagua Valley,Caliterra,4.1,128,16.5,2016,Red
+Pinot Noir 2017,United States,California,Decoy,3.8,2004,32.5,2017,Red
+Red Blend 2015,Chile,Itata Valley,Viña La Causa,3.9,46,15.3,2015,Red
+The King's Favour Sauvignon Blanc 2012,New Zealand,Marlborough,The Kings Series,3.6,91,13.9,2012,
+Saint-Julien (Grand Cru Classé) 2009,France,Saint-Julien,Château Léoville Poyferré,4.6,981,239.0,2009,Red
+Amarone della Valpolicella 2015,Italy,Amarone della Valpolicella,Villa Canestrari,3.9,47,19.4,2015,Red
+Peyre Blanche Cairanne 2017,France,Cairanne,Famille Perrin,3.8,342,13.5,2017,Red
+Great Expectations Sauvignon Blanc 2019,South Africa,Robertson,Goedverwacht,3.6,44,6.77,2019,
+Etna Santo Spirito Bianco 2018,Italy,Etna,Tenuta delle Terre Nere,3.9,93,25.9,2018,
+Erdeluftgrasundreben WB 2017,Austria,Burgenland,Claus Preisinger,4.0,34,30.71,2017,
+Barón de Chirel Verdejo Viñas Centenarias 2016,Spain,Castilla y León,Marqués de Riscal,4.3,45,41.61,2016,
+Corton-Charlemagne Grand Cru 2013,France,Corton-Charlemagne Grand Cru,Joseph Drouhin,4.5,82,193.99,2013,
+Antu Cabernet Sauvignon - Carmenère 2018,Chile,Colchagua Valley,MontGras,4.0,158,11.9,2018,Red
+Châteauneuf-du-Pape Vieilles Vignes Blanc 2006,France,Châteauneuf-du-Pape,Tardieu-Laurent,4.2,47,46.95,2006,
+Cuvée ∝ (Alpha) Champagne 2006,France,Champagne,Jacquart,4.3,137,126.32,2006,
+Rouge (Estate Reserve) 2008,South Africa,Stellenbosch,Morgenster Estate,4.3,375,38.94,2008,Red
+Flor de Muga Rosado 2018,Spain,Rioja,Muga,4.1,250,23.9,2018,
+56 Hundred Cabernet Sauvignon 2018,South Africa,Coastal Region,Nederburg,3.7,528,6.31,2018,Red
+Sherazade Nero d'Avola 2018,Italy,Terre Siciliane,Donnafugata,3.8,786,8.95,2018,Red
+Saint-Véran 2016,France,Saint-Véran,Les Héritiers du Comte Lafon,4.0,55,36.33,2016,
+Valley Floor Shiraz 2017,Australia,Barossa,Langmeil,4.1,459,16.68,2017,Red
+Vigneti La Selvanella Chianti Classico Riserva 2014,Italy,Chianti Classico,Melini,3.9,242,13.95,2014,Red
+Cabernet Sauvignon - Merlot 2014,Spain,Somontano,Enate,3.6,1156,19.89,2014,Red
+Aconcagua Valley 2014,Chile,Aconcagua Valley,Sena,4.4,667,112.1,2014,Red
+Charles Wetmore Cabernet Sauvignon 2017,United States,Livermore Valley,Wente,4.0,423,18.2,2017,Red
+Brunello di Montalcino 2013,Italy,Brunello di Montalcino,Tenuta Il Poggione,4.2,2678,35.97,2013,Red
+Domaene Gobelsburg Rosé 2019,Austria,Niederösterreich,Schloss Gobelsburg,3.7,61,7.96,2019,
+Pfaffenberg Riesling 2017,Austria,Kremstal,Pichler-Krutzler,3.8,67,22.0,2017,
+Haut-Médoc 2017,France,Haut-Médoc,Château Cambon La Pelouse,3.8,57,17.45,2017,Red
+Anaperenna 2015,Australia,Barossa Valley,Glaetzer,4.4,236,47.69,2015,Red
+Salzberg 2011,Austria,Burgenland,Heinrich,4.5,172,79.95,2011,Red
+Niedermenniger Herrenberg Riesling Auslese 2010,Germany,Mosel,Markus Molitor,4.0,30,39.95,2010,
+Bordeaux 2012,France,Bordeaux,Domaine de Valmengaux,4.1,139,34.71,2012,Red
+Diciotto Primitivo 2015,Italy,Salento,Schola Sarmenti,4.4,56,48.72,2015,Red
+Merlot 2018,France,Pays d'Oc,Paul Mas,3.7,211,5.5,2018,Red
+Steinbuckel Riesling GG 2016,Germany,Pfalz,Knipser,4.0,34,27.0,2016,
+Contacto Alvarinho 2019,Portugal,Monção e Melgaço,Anselmo Mendes,3.8,617,11.6,2019,
+Blanc de Blancs Extra Brut N.V.,Italy,Trentino-Alto Adige,Arunda,3.7,196,24.5,N.V.,
+Mirto 2014,Spain,Rioja,Ramón Bilbao,4.3,243,37.3,2014,Red
+Cellar Selection Sauvignon Blanc 2019,South Africa,Western Cape,Kleine Zalze,3.6,175,8.5,2019,
+Ruby Blend 2015,South Africa,Western Cape,Peter Falke,4.0,54,17.9,2015,Red
+Verdejo 2018,Spain,Rueda,PradoRey,3.7,469,9.37,2018,
+La Planta 2018,Spain,Ribera del Duero,Arzuaga,3.7,1702,9.5,2018,Red
+Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Santa Margherita,3.7,6835,11.29,N.V.,
+Priorat Cruor 2012,Spain,Priorat,Casa Gran del Siurana,4.1,288,22.91,2012,Red
+Rosé Dry-Sec N.V.,Germany,German Wine,Henkell,3.4,857,7.89,N.V.,
+Gavi 2018,Italy,Gavi,Batasiolo,3.4,35,10.99,2018,
+Valpolicella 2018,Italy,Valpolicella,Latium Morini,3.6,37,9.45,2018,Red
+Haut-Médoc (Grand Cru Classé) 2008,France,Haut-Médoc,Château La Tour Carnet,4.1,448,36.95,2008,Red
+Bardolino 2019,Italy,Bardolino,Cavalchina,3.5,100,8.72,2019,Red
+Alentejano Branco 2017,Portugal,Alentejano,Herdade dos Grous,3.8,491,10.63,2017,
+Roero Arneis 2019,Italy,Roero,Pescaja,4.0,40,10.92,2019,
+The Peppermint Paddock Chambourcin N.V.,Australia,McLaren Vale,d'Arenberg,3.9,638,22.9,N.V.,
+Vürsù Barolo Campè 2015,Italy,Barolo,La Spinetta,4.3,51,96.5,2015,Red
+Primitivo 2017,Italy,Salento,Itinera Prima Classe,3.9,868,6.95,2017,Red
+Primo Sangiovese - Merlot 2018,Italy,Daunia,Farnese,3.5,52,4.28,2018,Red
+Rosé Champagne N.V.,France,Champagne,Jacquart,3.8,570,32.99,N.V.,
+Signature Chardonnay - Pinot Noir 2019,South Africa,Stellenbosch,Spier,3.6,352,6.5,2019,
+Pinot Noir 2016,United States,Monterey,District 7,3.6,1001,15.98,2016,Red
+Rosé Sauvage Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,3.8,4846,45.49,N.V.,
+Puligny-Montrachet 2017,France,Puligny-Montrachet,Domaine Henri Boillot,4.3,43,59.9,2017,
+Grechetto 2018,Italy,Umbria,SIGNÆ,3.6,25,8.9,2018,
+Página Sauvignon Blanc 2017,Portugal,Lisboa,Romana Vini,4.0,61,16.57,2017,
+Médoc 2014,France,Médoc,Château Leboscq,3.6,346,14.38,2014,Red
+Saint-Émilion Grand Cru (Grand Cru Classé) 2010,France,Saint-Émilion Grand Cru,Château de Ferrand,4.0,960,87.0,2010,Red
+Rosso di Montalcino 2015,Italy,Rosso di Montalcino,Casanova di Neri,3.9,2001,15.68,2015,Red
+Sundial Chardonnay 2018,United States,California,Fetzer,3.6,356,8.62,2018,
+Résonance Vineyard Pinot Noir 2015,United States,Yamhill-Carlton District,Résonance,4.0,214,66.93,2015,Red
+Vignes Blanches Pouilly-Fuissé 2016,France,Pouilly-Fuissé,Domaine Saumaize-Michelin,3.9,53,24.95,2016,
+Shiraz 2016,South Africa,Stellenbosch,Tokara,3.7,311,13.95,2016,Red
+Blanc de Noirs Brut Champagne N.V.,France,Champagne,Robert Barbichon,3.9,349,35.6,N.V.,
+Reserva 2015,Spain,Cigales,Museum,3.9,632,15.89,2015,Red
+Cal Y Canto Full Red 2018,Spain,La Mancha,Isidro Milagro,3.1,25,3.7,2018,Red
+Reserva Carmenère 2018,Chile,Colchagua Valley,Caliterra,3.6,113,6.33,2018,Red
+Cabernet Sauvignon 2017,United States,California,Wines from Hahn Estate,3.7,1250,19.2,2017,Red
+Dolcetto d'Alba 2017,Italy,Dolcetto d'Alba,G.D. Vajra,3.8,740,12.62,2017,Red
+Sanct Valentin Riserva Pinot Noir 2017,Italy,Südtirol - Alto Adige,St. Michael-Eppan,4.1,104,33.2,2017,Red
+Danie de Wet Chardonnay 2018,South Africa,Robertson,De Wetshof,3.7,207,9.9,2018,
+Lamùri Nero d'Avola Regaleali 2017,Italy,Terre Siciliane,Tasca d'Almerita,3.7,1520,10.45,2017,Red
+Campill 2015,Italy,Vigneti delle Dolomiti,Pranzegg,3.9,49,23.06,2015,Red
+Asti Dolce N.V.,Italy,Asti,Fontanafredda,3.7,4127,16.5,N.V.,
+Garrus Rosé 2018,France,Côtes de Provence,Château d'Esclans,4.8,36,109.0,2018,
+Viña Arana Reserva 2011,Spain,Rioja,La Rioja Alta,4.0,791,20.95,2011,Red
+Tilenus Pagos de Posada Bierzo Mencia 2004,Spain,Bierzo,Estefanía,4.0,44,26.69,2004,Red
+Aluigi Riserva Chianti Classico 2013,Italy,Chianti Classico,Cinciole,3.7,86,25.3,2013,Red
+La Cuvée Brut Champagne N.V.,France,Champagne,Laurent-Perrier,4.0,4740,37.4,N.V.,
+Cremant d'Alsace Blanc de Blancs N.V.,France,Crémant d'Alsace,Boeckel,4.0,31,15.5,N.V.,
+Tignanello 2017,Italy,Toscana,Antinori,4.6,172,99.4,2017,Red
+Vinhas Velhas Tinto 2017,Portugal,Alentejano,Quinta do Paral,4.6,33,29.99,2017,Red
+Riesling Trocken 2016,Germany,Pfalz,Georg Mosbacher,3.9,505,9.99,2016,
+Tramp 2016,Spain,Catalunya,Can Grau Vell,3.8,71,15.7,2016,Red
+Saint-Julien (Grand Cru Classé) 2010,France,Saint-Julien,Château Ducru-Beaucaillou,4.6,447,369.0,2010,Red
+Malvasia Seco 2017,Spain,Lanzarote,El Grifo,3.9,228,13.9,2017,
+Terravignata Verdicchio di Matelica 2018,Italy,Verdicchio di Matelica,Borgo Paglianetto,3.4,29,11.35,2018,
+Alte Reben Riesling Trocken 2019,Germany,Baden,Alexander Laible,4.3,34,13.41,2019,
+Château de la Chesnaie Sur Lie 2017,France,Muscadet-Sevre et Maine,Chéreau-Carré,3.8,31,8.24,2017,
+Rõseo Spumante Rosé Brut N.V.,Italy,Prosecco,Le Manzane,3.8,160,6.9,N.V.,
+Sauvignon Blanc 2019,Germany,Rheinhessen,Krämer - Straight,4.1,41,8.99,2019,
+Pannobile 2015,Austria,Burgenland,Judith Beck,3.8,99,24.5,2015,Red
+Cuvée Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,3.9,2781,44.54,N.V.,
+Pinot Noir 2016,New Zealand,Marlborough,Stoneleigh,3.3,580,12.45,2016,Red
+Les Trois Marie Côtes du Roussillon Villages 2013,France,Côtes du Roussillon Villages,Thunevin-Calvet,4.2,35,107.23,2013,Red
+Reserva Original 2014,Spain,Rioja,Ramón Bilbao,3.9,169,19.89,2014,Red
+ORO Prosecco Treviso Brut N.V.,Italy,Prosecco di Treviso,Val d'Oca,3.5,319,10.99,N.V.,
+Hommage à Jacques Perrin Châteauneuf-du-Pape 2009,France,Châteauneuf-du-Pape,Château de Beaucastel,4.5,371,480.0,2009,Red
+Riverpoint Vineyard Gewürztraminer 2014,New Zealand,Gisborne,Millton,3.9,29,17.45,2014,
+Brunello di Montalcino Riserva Pian di Conte 2013,Italy,Brunello di Montalcino,Talenti,4.3,86,125.75,2013,Red
+Diamond Collection Zinfandel (Red Label) 2016,United States,Napa Valley,Francis Ford Coppola,3.9,1078,21.39,2016,Red
+Pian di Rèmole Bianco 2018,Italy,Toscana,Frescobaldi,3.6,28,6.95,2018,
+Saint-Estèphe (Grand Cru Classé) 2015,France,Saint-Estèphe,Château Montrose,4.3,193,167.95,2015,Red
+Limited Release Cabernet Sauvignon 2014,United States,Napa Valley,Black Stallion,4.0,133,106.89,2014,Red
+Montesodi Toscana 2015,Italy,Toscana,Castello Nipozzano,4.0,578,42.62,2015,Red
+Médoc 2016,France,Médoc,Château Clos du Moulin,3.9,30,13.9,2016,Red
+Millésimé Crémant du Jura Brut 2014,France,Crémant du Jura,Tissot-Maire,3.7,35,13.9,2014,
+Pinot Grigio 2019,Italy,Terre Siciliane,Epicuro,3.5,26,5.5,2019,
+Grand Estates Chardonnay 2016,United States,Columbia Valley,Columbia Crest,3.9,491,12.99,2016,
+Rheinschiefer Hallgarten Riesling Trocken 2018,Germany,Rheingau,Peter Jakob Kühn,3.9,122,15.11,2018,
+Sancerre D'Antan 2014,France,Sancerre,Henri Bourgeois,4.3,192,38.0,2014,
+Sauvignon Blanc 2017,Chile,Casablanca Valley,Cruz Andina,3.4,424,9.9,2017,
+Pinotage 2017,South Africa,Stellenbosch,Vriesenhof,3.6,84,11.5,2017,Red
+Cabernet Sauvignon 2018,Chile,Colchagua Valley,Montes Alpha,3.7,66,12.95,2018,Red
+Annonce Saint-Émilion Grand Cru 2016,France,Saint-Émilion Grand Cru,Château Belair-Monange,3.9,33,60.44,2016,Red
+Le Stanze Toscana 2016,Italy,Toscana,Poliziano,4.1,222,39.5,2016,Red
+Malbec du Clos 2017,France,Cahors,Jean-Luc Baldès,3.9,45,9.65,2017,Red
+Wehlener Sonnenuhr Riesling Kabinett 2015,Germany,Mosel,Markus Molitor,3.9,53,19.95,2015,
+Chianti Classico 2016,Italy,Chianti Classico,Zonin,3.7,72,9.06,2016,Red
+Cabernet Sauvignon 2014,United States,Central Coast,Ryder Estate,3.7,283,15.9,2014,Red
+Brut Vintage Champagne (Cuvée Royale) 2004,France,Champagne,Joseph Perrier,3.9,122,60.08,2004,
+1 Uno Primitivo di Manduria Riserva 2016,Italy,Primitivo di Manduria,Masseria La Volpe,4.3,148,14.18,2016,Red
+Appassite 2018,Italy,Puglia,Nero Grande,4.1,573,9.9,2018,Red
+Diamond Collection Syrah - Shiraz (Green Label) 2016,United States,Napa Valley,Francis Ford Coppola,3.9,431,21.5,2016,Red
+Brut Rosé N.V.,South Africa,Franschhoek,Colmant,3.8,158,23.5,N.V.,
+Limited Edition Syrah 2011,Chile,Maipo Valley,Viña Maipo,4.0,239,25.13,2011,Red
+Cuvée Juveniles 2017,Australia,Barossa,Torbreck,3.9,114,24.75,2017,Red
+Sommarovina Valtellina Superiore Sassella 2014,Italy,Valtellina Superiore,Mamete Prevostini,3.8,461,24.0,2014,Red
+Chardonnay 2017,South Africa,Elgin,Paul Cluver,4.0,302,18.39,2017,
+Haut-Médoc 2008,France,Haut-Médoc,Château Fontesteau,3.7,388,15.95,2008,Red
+Chardonnay 2017,United States,California,Stone Barn,3.8,51,7.6,2017,
+Reserva Cabernet Sauvignon 2012,Spain,Somontano,Enate,3.9,351,17.99,2012,Red
+Grand Vintage Brut Champagne 2009,France,Champagne,Moët & Chandon,4.2,2737,67.29,2009,
+Saint-Joseph Vignes de L'Hospice 2016,France,Saint-Joseph,E. Guigal,4.2,73,69.9,2016,Red
+Brunello di Montalcino Pianrosso 2013,Italy,Brunello di Montalcino,Ciacci Piccolomini d'Aragona,4.4,360,56.05,2013,Red
+Villa Blanche Syrah 2017,France,Pays d'Oc,Calmel & Joseph,3.8,109,7.4,2017,Red
+Reserva Merlot 2016,Brazil,Serra Gaúcha,Don Guerino,3.7,85,12.62,2016,Red
+Charta Riesling 2018,Germany,Rheingau,Johannishof,3.9,134,11.48,2018,
+La Croix Boissée Chinon Blanc 2018,France,Chinon,Bernard Baudry,4.2,36,24.95,2018,
+Marius Grenache - Syrah 2018,France,Pays d'Oc,M. Chapoutier,3.5,888,6.5,2018,Red
+Riesling Stielweg Alte Reben 2018,Germany,Rheingau,Künstler,3.9,68,16.9,2018,
+Concordia Fetească Neagră - Merlot 2013,Romania,Murfatlar,Alira,3.6,61,11.9,2013,Red
+Manso de Velasco Cabernet Sauvignon 2013,Chile,Curico Valley,Miguel Torres,4.2,684,43.99,2013,Red
+Cava Brut Reserva N.V.,Spain,Cava,Castillo Perelada,3.5,4329,12.5,N.V.,
+La Luna e I Falo Nizza 2015,Italy,Barbera d'Asti,Vite Colte,3.7,115,17.95,2015,Red
+Crémant de Limoux Brut N.V.,France,Crémant de Limoux,Gérard Bertrand,3.6,603,39.99,N.V.,
+Nuits-Saint-Georges 2016,France,Nuits-Saint-Georges,Domaine des Perdrix,4.2,71,64.8,2016,Red
+Shiraz 2018,Australia,Riverina,Pokerface,3.4,30,7.35,2018,Red
+Saint-Émilion Grand Cru (Grand Cru Classé) 1999,France,Saint-Émilion Grand Cru,Château l'Arrosee,4.1,69,52.15,1999,Red
+Amarone della Valpolicella Classico 2013,Italy,Amarone della Valpolicella Classico,Villabella,4.2,80,27.32,2013,Red
+Pecorino Castello Di Semivicoli 2018,Italy,Abruzzo,Masciarelli,3.9,177,13.39,2018,
+Merlot Rosé 2018,France,Pays d'Oc,Fortant,3.4,59,6.55,2018,
+Talento 2012,Brazil,Serra Gaúcha,Salton,3.8,2066,16.72,2012,Red
+Colheita Seleccionada Rouge 2010,Portugal,Alentejano,Rapariga da Quinta,3.2,1046,11.7,2010,Red
+Adénzia Rosso 2016,Italy,Sicilia,Baglio del Cristo di Campobello,4.0,125,13.4,2016,Red
+Tre Saggi Montepulciano d'Abruzzo 2015,Italy,Montepulciano d'Abruzzo,Talamonti,3.7,484,10.47,2015,Red
+Grüner Veltliner 2018,Austria,Kamptal,Loimer,3.8,500,9.72,2018,
+Chianti Superiore 2018,Italy,Chianti,Castello del Trebbio,3.8,126,13.33,2018,Red
+Susumaniello Salento 2016,Italy,Salento,Vallone,3.7,235,8.8,2016,Red
+Musso Merlot 2016,Spain,Castilla,Casa Rojo,3.4,193,6.54,2016,Red
+Roero Arneis 2019,Italy,Roero,Bruno Giacosa,3.8,46,19.4,2019,
+Grillo 2018,Italy,Terre Siciliane,Poggio Graffetta,4.0,50,9.5,2018,
+Chiaretto Garda Classico 2018,Italy,Garda,Bulgarini,3.9,55,8.68,2018,
+Moulis-en-Médoc 2012,France,Moulis-en-Médoc,Château Poujeaux,3.9,1227,31.19,2012,Red
+Pauillac (Grand Cru Classé) 2015,France,Pauillac,Château Grand-Puy-Lacoste,4.2,296,85.0,2015,Red
+Cepas Centenarias 2013,Spain,Rioja Alta,Tarón,3.9,63,19.4,2013,Red
+RS Spätburgunder 2013,Germany,Baden,Salwey,3.9,60,19.95,2013,Red
+Weisser Burgunder II 2015,Germany,Pfalz,Von Winning,3.8,58,15.95,2015,
+Les Sorcières Côtes du Roussillon Rouge 2018,France,Côtes du Roussillon,Domaine du Clos des Fées,3.7,493,16.31,2018,Red
+Valdehermoso Joven 2018,Spain,Ribera del Duero,Valderiz,3.6,34,7.35,2018,Red
+Pinot Grigio Ramato 2019,Italy,Friuli-Venezia Giulia,Attems,3.8,33,12.53,2019,
+Lemberger Trocken 2017,Germany,Württemberg,Aldinger,3.5,30,6.9,2017,Red
+G.A.M. Shiraz 2010,Australia,McLaren Vale,Mitolo,4.2,333,43.69,2010,Red
+Prosecco Brut N.V.,Italy,Prosecco,Maschio,3.6,2034,10.01,N.V.,
+Terra Montosa Riesling 2018,Germany,Rheingau,Georg Breuer,3.9,93,18.9,2018,
+The Twenty-Eight Road Mourvèdre 2014,Australia,McLaren Vale,d'Arenberg,3.8,33,21.57,2014,Red
+Rioja Reserva 2015,Spain,Rioja,El Meson,4.0,27,11.9,2015,Red
+Pasionado Cabernet Franc 2013,Argentina,Tupungato,Andeluna,4.2,165,54.36,2013,Red
+Les Grézeaux Chinon 2017,France,Chinon,Bernard Baudry,3.8,214,17.06,2017,Red
+Pagliareto Vino Nobile di Montepulciano 2016,Italy,Vino Nobile di Montepulciano,Lunadoro,4.0,32,16.9,2016,Red
+Grande Reserva Alentejano Tinto 2014,Portugal,Alentejano,Monte Cascas,4.0,90,21.45,2014,Red
+Schwarz Mann 2015,Austria,Burgenland,Schwarz,3.7,37,12.48,2015,Red
+Crémant d'Alsace Blanc de Blancs Brut N.V.,France,Crémant d'Alsace,Dopff & Fils,4.2,62,14.21,N.V.,
+Durif 2017,Australia,Riverina,Three Bridges,4.0,243,25.45,2017,Red
+Kiedrich Gräfenberg Riesling Trocken GG 2013,Germany,Rheingau,Robert Weil,3.8,443,73.9,2013,
+Moulis-en-Médoc 2005,France,Moulis-en-Médoc,Château Chasse-Spleen,4.1,1528,48.95,2005,Red
+Pinot Nero 2010,Italy,Südtirol - Alto Adige,Ferruccio Carlotto,3.6,39,19.45,2010,Red
+Cuvée Annamaria Clementi (Extra Brut) 2010,Italy,Franciacorta,Ca' del Bosco,4.5,206,88.9,2010,
+Grüner Veltliner Berg Vogelsang 2018,Austria,Kamptal,Weingut Bründlmayer,3.8,88,14.7,2018,
+Grand Ferrage Côtes de Provence 2019,France,Côtes de Provence,Mathilde Chapoutier,4.0,53,13.0,2019,
+Cuvée Supérieure Champagne N.V.,France,Champagne,Louis Casters,3.8,458,21.95,N.V.,
+Wiener Gemischter 2018,Austria,Wiener Gemischter Satz,Mayer am Pfarrplatz,3.6,205,24.95,2018,
+Moulis-en-Médoc 2014,France,Moulis-en-Médoc,Château Poujeaux,3.8,731,39.0,2014,Red
+Le Dix de Los Vascos 2016,Chile,Colchagua Valley,Los Vascos,3.9,76,46.6,2016,Red
+Ürziger Würzgarten Riesling Auslese 2015,Germany,Mosel,Karl Erbes,4.0,38,16.0,2015,
+Il Forte Gavi 2018,Italy,Gavi,Produttori del Gavi,3.8,86,10.57,2018,
+Cartizze Valdobbiadene Superiore Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Bisol,4.0,636,31.03,N.V.,
+Haut-Médoc 2014,France,Haut-Médoc,Château Charmail,3.8,922,19.95,2014,Red
+The Winemaster's Merlot 2016,South Africa,Coastal Region,Nederburg,3.4,435,6.63,2016,Red
+Platónico 2016,Portugal,Lisboa,Manz,3.6,479,7.9,2016,Red
+Villa Antinori Toscana Bianco 2018,Italy,Toscana,Antinori,3.9,4064,8.68,2018,
+Klassiek Wit 2018,South Africa,Western Cape,Oude Kaap,2.8,40,3.75,2018,
+San Carlo Moscato d'asti 2017,Italy,Moscato d'Asti,Montalbera,3.8,29,9.9,2017,
+Perlé Bianco Riserva 2010,Italy,Trento,Ferrari,4.1,118,52.61,2010,
+Sauvignon Blanc 2019,South Africa,Stellenbosch,Rustenberg,3.8,153,12.5,2019,
+Riesling Abtsberg GG 2017,Germany,Mosel,Maximin Grünhaus,4.1,88,29.15,2017,
+Merlot (Jan Fiskaal) 2016,South Africa,Coastal Region,MAN,3.5,139,7.19,2016,Red
+Sauvignon Blanc 2019,South Africa,Stellenbosch,Delheim,3.4,68,7.69,2019,
+Spätburgunder 'B' 2015,Germany,Pfalz,Friedrich Becker,3.7,55,16.5,2015,Red
+Vernaccia di San Gimignano 2019,Italy,Vernaccia di San Gimignano,Teruzzi & Puthod,3.4,35,8.68,2019,
+Les Cépages Sauvignon Blanc 2018,France,Pays d'Oc,Baron Philippe de Rothschild,3.1,50,7.75,2018,
+Two Blanc 2015,South Africa,Constantia,Constantia Glen,4.1,88,16.47,2015,
+Otello 1813 Nero di Lambrusco 2015,Italy,Emilia,Ceci,4.0,974,14.9,2015,
+Antu Grenache - Syrah - Carignan 2015,Chile,Colchagua Valley,MontGras,3.8,482,12.6,2015,Red
+Côtes du Rhône 2018,France,Côtes-du-Rhône,Château Mont-Redon,3.8,42,10.23,2018,Red
+Von Den Grossen Lagen 2018,Germany,Nahe,Korrell,4.0,62,19.44,2018,
+Riesling Scharzhof 2018,Germany,Wiltingen,Egon Müller - Scharzhof,4.1,242,32.9,2018,
+Saint-Estèphe (Grand Cru Classé) 2010,France,Saint-Estèphe,Château Montrose,4.4,657,279.0,2010,Red
+Reserva 2015,Spain,Rioja,Hacienda Grimon,4.0,32,17.5,2015,Red
+Brunello di Montalcino 2015,Italy,Brunello di Montalcino,Donna Olga,4.3,26,34.0,2015,Red
+Inspiración Balcón de Pilatos Maturana 2016,Spain,Rioja,Bodegas Valdemar,4.1,93,25.99,2016,Red
+Saint Cosme Côtes du Rhône 2018,France,Côtes-du-Rhône,Château de Saint Cosme,3.8,1796,9.5,2018,Red
+Zweigelt Classic 2017,Austria,Carnuntum,Weingut Philipp Grassl,3.7,45,10.5,2017,Red
+Pessac-Léognan Rouge 2005,France,Pessac-Léognan,Château de Rouillac,3.9,41,29.95,2005,Red
+Barrel Fermented Chenin Blanc 2017,South Africa,Stellenbosch,Stellenrust,4.1,450,17.99,2017,
+Camalaione 2013,Italy,Chianti,Cinciole,4.2,38,38.94,2013,Red
+Pinot Noir *** 2015,Germany,Baden,Weingut Holger Koch,3.9,58,32.35,2015,Red
+Mitzi Gelber Muskateller 2018,Austria,Südsteiermark,Gross,3.8,89,12.18,2018,
+Pessac-Léognan (Grand Cru Classé de Graves) 2005,France,Pessac-Léognan,Château Pape Clément,4.5,811,179.0,2005,Red
+Veneto Velluto Appassimento 2017,Italy,Veneto,Zonin,3.7,285,6.97,2017,Red
+Max Reserva Cabernet Sauvignon 2017,Chile,Aconcagua Valley,Errazuriz,3.7,1861,14.13,2017,Red
+Diamond Collection Pinot Noir (Silver Label) 2017,United States,Monterey County,Francis Ford Coppola,3.5,336,29.05,2017,Red
+Vigneto Bellavista Chianti Classico 2013,Italy,Chianti Classico,Castello di Ama,4.3,56,225.32,2013,Red
+The Beautiful Syrah 2016,United States,Walla Walla Valley,K Vintners,4.4,30,77.47,2016,Red
+Bianco di Custoza Superiore Cà del Magro 2017,Italy,Bianco di Custoza,Monte del Frá,3.8,473,9.22,2017,
+Prosecco Conegliano Valdobbiadene Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Cecilia Beretta,3.8,2161,14.32,N.V.,
+Côtes du Rhône Villages 2016,France,Côtes-du-Rhône-Villages,François Arnaud,3.7,41,8.53,2016,Red
+Serraboella Barbaresco 2014,Italy,Barbaresco,Rivetti Massimo,4.0,40,34.02,2014,Red
+Perlita Rosado 2018,Argentina,Uco Valley,DiamAndes,4.0,27,9.99,2018,
+Rosso di Montalcino 2017,Italy,Rosso di Montalcino,Casanova di Neri,4.0,111,20.9,2017,Red
+Château Plaisance-Branne Montagne Saint-Émilion 2011,France,Montagne-Saint-Émilion,Château Plaisance,3.7,68,9.65,2011,Red
+Finca Dofí 2017,Spain,Priorat,Álvaro Palacios,4.4,108,69.95,2017,Red
+Artigas 2017,Spain,Priorat,Bodegas Mas Alta,4.1,93,21.25,2017,Red
+Chardonnay 2018,France,Pays d'Oc,Cap Cette,3.3,41,7.5,2018,
+Haut-Médoc (Grand Cru Classé) 2015,France,Haut-Médoc,Château Cantemerle,3.9,815,42.5,2015,Red
+Vignacorta 2017,Italy,Calabria,Fattoria San Francesco,3.7,46,9.5,2017,Red
+Cabernet Sauvignon Riserva Campaner 2016,Italy,Trentino-Alto Adige,Cantina Kaltern,4.0,325,14.72,2016,Red
+Bardolino Classico 2017,Italy,Bardolino Classico,Lenotti,3.6,304,4.83,2017,Red
+Antique Cairanne 2016,France,Cairanne,Camille Cayran,4.0,92,13.44,2016,Red
+Cabernet Sauvignon 2018,Chile,Central Valley,Valdivieso,3.3,101,7.6,2018,Red
+Tellus Syrah 2016,Italy,Lazio,Falesco,3.8,2606,10.39,2016,Red
+Puglia Rosso (Accademia dei Racemi) 2017,Italy,Puglia,Anarkos,3.8,175,6.5,2017,Red
+Vacqueyras 'Les Cyprès' 2015,France,Vacqueyras,Paul Jaboulet Aîné,3.6,82,16.52,2015,Red
+Les Terres Rouges Cahors 2012,France,Cahors,Rigal,3.9,27,17.45,2012,Red
+Bianco di Custoza Superiore Cà del Magro 2018,Italy,Bianco di Custoza,Monte del Frá,3.9,70,9.6,2018,
+Sauvignon Blanc 2017,Israel,Galilee,Gamla,3.7,143,12.81,2017,
+Querciantica Lacrima di Morro 2018,Italy,Lacrima di Morro d'Alba,Velenosi,3.5,271,7.89,2018,Red
+Primitivo Puglia Infinitum 2018,Italy,Puglia,Torrevento,3.7,385,5.95,2018,Red
+Chianti Classico Riserva Ser Lapo 2016,Italy,Chianti Classico,Mazzei,3.8,1756,17.61,2016,Red
+Rioja Reserva (Tempranillo) 2015,Spain,Rioja,Ramón Bilbao,4.0,1192,10.49,2015,Red
+Great Expectations Triangle 2016,South Africa,Robertson,Goedverwacht,3.6,78,8.72,2016,Red
+Douro Tiara Branco 2017,Portugal,Douro,Niepoort,4.2,102,26.88,2017,
+Eight Songs Shiraz 2013,Australia,Barossa,Peter Lehmann,3.8,131,35.09,2013,Red
+Reserva Cuvée Colchagua Carmenère 2019,Chile,Colchagua Valley,Casa Silva,3.8,95,10.43,2019,Red
+Viña Arana Reserva 2012,Spain,Rioja,La Rioja Alta,4.0,151,18.99,2012,Red
+Emilio Primo Bianco 2018,Italy,Toscana,Terre del Marchesato,3.7,141,13.5,2018,
+Chassagne-Montrachet Blanc 2014,France,Chassagne-Montrachet,Domaine Michel Niellon,4.1,160,49.95,2014,
+Barbera d’Alba Vigna Martina 2014,Italy,Barbera d'Alba,Elio Grasso,3.8,261,33.89,2014,Red
+Circle of Life White 2016,South Africa,Stellenbosch,Waterkloof,4.0,51,16.9,2016,
+Méthode Ancienne Cabernet Sauvignon 2008,South Africa,Robertson,Springfield Estate,4.3,172,44.85,2008,Red
+The Wine Cuvée Weiss 2017,Austria,Burgenland,Scheiblhofer,3.7,133,12.19,2017,
+Tempranillo - Merlot 2015,Spain,Ribera del Duero,Rolland & Galarreta 'R&G',3.7,107,13.95,2015,Red
+Paolo e Carlo Malvasia Nera 66 Sessantasei Limited Edition 2015,Italy,Veneto,Conte di Campiano,4.1,247,7.9,2015,Red
+Water Bend Chardonnay 2014,United States,Sonoma County,Geyser Peak,4.0,95,21.0,2014,
+Beaujolais-Villages Combe aux Jacques 2018,France,Beaujolais-Villages,Louis Jadot,3.8,1608,10.43,2018,Red
+Bisamberg Wiener Gemischter Satz 2018,Austria,Wiener Gemischter Satz,Wieninger,3.8,71,15.5,2018,
+Shiraz 2018,Spain,Castilla,Costa Azul,3.2,44,3.55,2018,Red
+Barbaresco 2017,Italy,Barbaresco,Prunotto,3.8,225,26.89,2017,Red
+Steinterrassen 2011,Germany,Nahe,Gut Hermannsberg,3.9,40,21.4,2011,
+Chardonnay 2018,South Africa,Western Cape,Laborie,3.4,406,6.84,2018,
+M Capriva Del Friuli 2016,Italy,Friuli-Venezia Giulia,Schiopetto,4.2,96,75.9,2016,
+Montagne Saint-Émilion 2016,France,Montagne-Saint-Émilion,Vieux Château Palon,4.0,147,27.29,2016,Red
+Barbaresco 2016,Italy,Barbaresco,De Forville,4.1,166,24.3,2016,Red
+Matero 2018,Italy,Toscana,Carlo Gentili,3.4,40,5.75,2018,Red
+Spiegel 2016,Austria,Wagram,Bernhard Ott,3.9,40,29.9,2016,
+Albariño 2018,Spain,Rías Baixas,Lagar de Cervera,3.9,930,14.38,2018,
+Gran Reserva Rioja 2012,Spain,Rioja,Campillo,4.1,88,33.99,2012,Red
+Fidelis Aglianico del Taburno 2014,Italy,Taburno,Cantina del Taburno,3.6,200,8.9,2014,Red
+Syrah 2016,South Africa,Stellenbosch,Stark-Condé,3.9,199,18.99,2016,Red
+Dolcetto D'Alba Rossana 2018,Italy,Dolcetto d'Alba,Ceretto,3.7,49,16.48,2018,Red
+Chante-Alouette Hermitage Blanc 1999,France,Hermitage,M. Chapoutier,3.4,30,55.95,1999,
+Barolo Riserva 2012,Italy,Barolo,Borgogno,4.2,420,137.81,2012,Red
+Blanco 2019,Spain,Rioja,El Coto,3.6,384,4.95,2019,
+Tenuta Guado al Tasso Vermentino Bolgheri 2019,Italy,Bolgheri,Antinori,4.1,404,17.99,2019,
+Altitud Cabernet Sauvignon 2016,Argentina,Tupungato,Andeluna,3.6,62,16.17,2016,Red
+Benchmark Chardonnay 2014,Australia,Barossa,Grant Burge,3.2,82,6.95,2014,
+Moulis-en-Médoc 2016,France,Moulis-en-Médoc,Château Chasse-Spleen,3.9,552,34.85,2016,Red
+Caño Tempranillo - Garnacha Toro 2018,Spain,Toro,Bajoz,3.7,588,4.95,2018,Red
+Corimbo 2015,Spain,Ribera del Duero,Bodegas La Horra,4.0,285,21.9,2015,Red
+Ilatraia 2016,Italy,Toscana,Brancaia,4.3,44,57.05,2016,Red
+The Factor 2016,Australia,Barossa Valley,Torbreck,4.3,98,140.64,2016,Red
+Nova Serra Greco Di Tufo 2018,Italy,Greco di Tufo,Mastroberardino,3.9,328,10.04,2018,
+Vernaccia di San Gimignano 2018,Italy,Vernaccia di San Gimignano,Abbazia Monte Oliveto,3.8,74,8.5,2018,
+Roggio del Filare Rosso Piceno Superiore 2016,Italy,Rosso Piceno,Velenosi,4.1,204,25.89,2016,Red
+Essence du Cap Pinotage 2017,South Africa,Bottelary,Fleur du Cap,3.3,368,9.9,2017,Red
+Black Print 2018,Germany,Pfalz,Schneider,4.1,261,14.9,2018,Red
+21 Gables Pinotage 2016,South Africa,Western Cape,Spier,4.2,281,25.95,2016,Red
+Pinot Grigio 2018,Italy,Venezia,Riff,3.5,443,7.15,2018,
+Calaventana Alcamo 2017,Italy,Alcamo,Firriato,3.4,34,7.99,2017,
+La Mateo Garnacha Cepas Viejas 2016,Spain,Rioja,D. Mateos,4.3,59,42.01,2016,Red
+Reserva 2011,Spain,Rioja,Hacienda el Ternero,3.9,247,22.9,2011,Red
+Réserve Graves Rouge 2016,France,Graves,Mouton Cadet,3.7,491,14.06,2016,Red
+Torre Albéniz Reserva Ribera del Duero 2014,Spain,Ribera del Duero,Finca Torremilanos,4.1,283,48.55,2014,Red
+Grauwacke Spätburgunder 2017,Germany,Ahr,Meyer - Näkel,3.9,56,20.53,2017,Red
+Bolgheri Superiore 2016,Italy,Bolgheri Superiore,Tenuta le Colonne,4.1,25,37.5,2016,Red
+Pessac-Léognan (Grand Cru Classé de Graves) 2008,France,Pessac-Léognan,Château Smith Haut-Lafitte,4.2,804,83.25,2008,Red
+Foradori - Teroldego 2016,Italy,Vigneti delle Dolomiti,Foradori,3.8,1794,18.7,2016,Red
+Le Corbeau Côtes Catalanes 2014,France,Côtes du Roussillon Villages,Maison Jean Pla,3.3,28,8.69,2014,Red
+Puro Torrontes 2019,Argentina,Mendoza,Dieter Meier,3.8,57,10.89,2019,
+Saint-Julien (Grand Cru Classé) 2016,France,Saint-Julien,Château Gruaud Larose,4.2,191,118.99,2016,Red
+Silvaner Escherndorfer 2016,Germany,Franken,Rainer Sauer,3.8,40,11.51,2016,
+Pouilly-Fumé Indigene 2018,France,Pouilly-Fumé,Pascal Jolivet,4.0,106,43.65,2018,
+Single Vineyard I Comunali Amarone della Valpolicella Classico 2015,Italy,Amarone della Valpolicella Classico,Villalta,4.2,411,29.9,2015,Red
+Saint Cosme Saint Joseph 2014,France,Saint-Joseph,Château de Saint Cosme,3.8,70,22.0,2014,Red
+Les Saint-Georges Nuits-Saint-Georges 1er Cru 2015,France,Nuits-Saint-Georges Premier Cru,Domaine Robert Chevillon,4.1,28,113.39,2015,Red
+Sauvignon Blanc 2018,New Zealand,Marlborough,Fernlands,4.1,297,9.2,2018,
+Drouhin - Vaudon Chablis 2018,France,Chablis,Joseph Drouhin,3.7,115,17.07,2018,
+Aconcagua Alto Cabernet Sauvignon 2015,Chile,Aconcagua,Errazuriz,3.8,376,21.45,2015,Red
+Melodias Malbec 2019,Argentina,Mendoza,Trapiche,3.6,383,5.95,2019,Red
+Jamais Content Pic Saint-Loup 2016,France,Pic-Saint-Loup,Mortiès,4.2,25,25.9,2016,Red
+Riesling Sekt Extra Dry N.V.,Germany,Mosel,Dr. Loosen,3.7,306,17.74,N.V.,
+Réserve Privée Blanc de Blancs Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru,Bruno Paillard,4.2,194,65.0,N.V.,
+Médoc 2015,France,Médoc,Château La Raze Beauvallet,3.7,93,12.99,2015,Red
+Château Pimorin Haut-Médoc 2014,France,Haut-Médoc,Château Fontesteau,3.8,40,13.04,2014,Red
+GB Spätburgunder Rosé 2019,Germany,Rheingau,Georg Breuer,3.7,59,9.26,2019,
+Barda Pinot Noir 2019,Argentina,Patagonia,Chacra,3.7,52,21.35,2019,Red
+Amarone 2016,Italy,Amarone della Valpolicella,Villa Cavarena,3.8,92,38.46,2016,Red
+Barolo Carobric 2006,Italy,Barolo,Paolo Scavino,4.3,134,74.69,2006,Red
+Eaglehawk Chardonnay 2018,Australia,South Eastern Australia,Wolf Blass,3.2,322,7.22,2018,
+Nero d'Avola 2018,Italy,Terre Siciliane,Corte dei Mori,3.9,54,6.75,2018,Red
+5 Finques (Fincas) Reserva 2016,Spain,Empordà,Castillo Perelada,4.0,148,13.85,2016,Red
+Bin 389 Cabernet - Shiraz 2017,Australia,South Australia,Penfolds,4.2,756,69.15,2017,Red
+Private Selection Vinhas Velhas Branco 2016,Portugal,Alentejo,Paulo Laureano,4.0,52,13.65,2016,
+D66 2015,France,Côtes Catalanes,Department 66,4.1,299,47.77,2015,Red
+Don Cosimo Primitivo 2018,Italy,Salento,Cantine due Palme,3.8,231,6.99,2018,Red
+Verdicchio Dei Castelli Di Jesi Classico Le Vele 2019,Italy,Verdicchio dei Castelli di Jesi,Moncaro,3.7,28,6.32,2019,
+Riesling 2018,Germany,Rheingau,Schloss Vollrads,3.8,65,10.53,2018,
+L'Elfo Pinot Grigio 2018,Italy,Veneto,Sacchetto,3.6,83,5.9,2018,
+Sauvignon Blanc Reserve 2017,South Africa,Walker Bay,Bouchard Finlayson,3.6,46,16.95,2017,
+Pessac-Léognan (Grand Cru Classé de Graves) 2016,France,Pessac-Léognan,Château Latour-Martillac,4.0,218,63.77,2016,Red
+Riesling 2017,Germany,Pfalz,Oliver Zeter,3.6,71,8.5,2017,
+Spätburgunder 2017,Germany,Ahr,Meyer - Näkel,3.7,247,14.5,2017,Red
+Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2010,France,Saint-Émilion Grand Cru,Château Pavie Macquin,4.4,285,149.95,2010,Red
+d'Arry's Original Shiraz - Grenache 2016,Australia,McLaren Vale,d'Arenberg,3.7,245,14.63,2016,Red
+I Quattro Conti Primitivo di Manduria 2017,Italy,Primitivo di Manduria,Tenute Quattro Conti,3.6,48,8.37,2017,Red
+Ripasso 2016,Italy,Valpolicella Ripasso,Villa Cavarena,3.8,460,31.48,2016,Red
+Custoza 2018,Italy,Bianco di Custoza,Cavalchina,3.7,380,7.98,2018,
+Nierstein Riesling Trocken 2016,Germany,Rheinhessen,Kühling-Gillot,3.8,48,19.4,2016,
+Cuvée Dalis 2018,Italy,Vigneti delle Dolomiti,Endrizzi,3.9,164,8.72,2018,
+Cuvée Bertrand 2015,Austria,Niederösterreich,Schloss Gobelsburg,3.6,67,13.43,2015,Red
+Is Argiolas Vermentino di Sardegna 2018,Italy,Vermentino di Sardegna,Argiolas,4.0,930,10.7,2018,
+Vigne Vecchie Primitivo di Manduria 2016,Italy,Primitivo di Manduria,Vigneti del Salento,4.4,196,18.4,2016,Red
+Sauvignon Blanc 2019,Germany,Rheinhessen,Peth Wetz,3.9,39,8.0,2019,
+Rioja Reserva 2013,Spain,Rioja,Luis Cañas,4.0,2230,13.99,2013,Red
+Grotta Rossa Carignano del Sulcis 2017,Italy,Carignano del Sulcis,Santadi,3.6,364,6.58,2017,Red
+Cabernet Sauvignon - Merlot 2018,South Africa,Western Cape,Two Oceans,3.2,382,4.9,2018,Red
+Mrs. English 2017,South Africa,Stellenbosch,Lanzerac,4.4,72,27.1,2017,
+The Rhine House Collection Chardonnay 2016,United States,California,Beringer,3.6,112,16.9,2016,
+Cabernet Sauvignon 2016,South Africa,Stellenbosch,Fairview,3.7,57,17.9,2016,Red
+Chassagne-Montrachet 1er Cru Morgeot Monopole Clos de La Chapelle Blanc 2016,France,Chassagne-Montrachet 1er Cru 'Morgeot',Louis Jadot - Domaine Duc de Magenta,4.3,59,98.15,2016,
+Ca' de' Rocchi Amarone della Valpolicella La Bastia 2016,Italy,Amarone della Valpolicella,Tinazzi,4.3,185,39.95,2016,Red
+Lugana Blanc 2019,Italy,Lugana,Ca' Lojera,3.9,27,10.57,2019,
+Gigondas Le Claux 2009,France,Gigondas,Château de Saint Cosme,4.1,43,49.95,2009,Red
+Cabernet Sauvignon 2015,United States,Wahluke Slope,Seven Falls,4.0,2123,14.95,2015,Red
+Optimus Estate Proprietary Red 2014,United States,Paso Robles,L'Aventure,4.3,282,65.0,2014,Red
+Freestone-Occidental Pinot Noir 2017,United States,Sonoma Coast,Occidental,4.3,183,80.24,2017,Red
+Aglianico 2014,Italy,Calabria,Ferrocinto,3.7,37,6.8,2014,Red
+Pinotage 2017,South Africa,Durbanville,Diemersdal,4.0,940,12.57,2017,Red
+Artino 2017,Italy,Calabria,Tenuta Iuzzolini,4.1,71,11.6,2017,Red
+Nero d'Avola 2016,Italy,Terre Siciliane,Itinera,3.4,236,4.95,2016,Red
+Weissburgunder Trocken 2017,Germany,Ahr,Burggarten,3.9,25,10.72,2017,
+Podere Montepulciano d'Abruzzo 2018,Italy,Montepulciano d'Abruzzo,Umani Ronchi,3.7,329,4.7,2018,Red
+Walking Tree Cabernet Sauvignon 2013,United States,Alexander Valley,Geyser Peak,3.7,156,21.0,2013,Red
+Pomerol 2015,France,Pomerol,Château Gombaude-Guillot,4.3,47,81.58,2015,Red
+Castillo de Enguera Reserva 2015,Spain,Valencia,Finca Enguera,3.7,32,8.95,2015,Red
+Paula Chardonnay 2018,Argentina,Mendoza,Doña Paula,3.5,60,6.73,2018,
+Pinot Grigio 2019,Italy,Südtirol - Alto Adige,Alois Lageder,3.6,36,11.5,2019,
+Bollamatta Rosato N.V.,Italy,Toscana,Bibi Graetz,3.8,381,18.9,N.V.,
+Cabi Sehr Nett Riesling 2016,Germany,Mosel,Fio,4.0,102,34.59,2016,
+Rosso di Montalcino Leopoldo Franceschi 2014,Italy,Rosso di Montalcino,Tenuta Il Poggione,3.9,1077,21.34,2014,Red
+Les Vieilles Vignes Chablis 2017,France,Chablis,Pascal Bouchard,4.1,51,23.5,2017,
+Paula Cabernet Sauvignon 2018,Argentina,Mendoza,Doña Paula,3.6,469,6.73,2018,Red
+Portillo Cabernet Sauvignon 2016,Argentina,Tunuyán,Salentein,3.4,999,7.88,2016,Red
+Margaux 2015,France,Margaux,Château La Tour de Mons,3.9,653,25.24,2015,Red
+MMM Macho Man 2017,Spain,Jumilla,Casa Rojo,4.0,2263,19.45,2017,Red
+Merlot Reserve 2013,South Africa,Stellenbosch,Thelema,4.2,60,32.5,2013,Red
+Vignes de Nicole Cabernet Sauvignon - Merlot Pays d'Oc 2018,France,Pays d'Oc,Paul Mas,3.8,604,7.5,2018,Red
+Crianza Ribera del Duero 2014,Spain,Ribera del Duero,Viña Pedrosa,4.0,2518,24.7,2014,Red
+Bourgogne Aligoté 2018,France,Bourgogne Aligoté,Joseph Drouhin,3.6,215,10.62,2018,
+Pomerol 2014,France,Pomerol,Château Plince,3.8,201,46.79,2014,Red
+Rioja 2018,Spain,Rioja,Castillo de Albai,3.4,942,5.99,2018,Red
+Rasteau Les Argiles Bleues 2017,France,Rasteau,Domaine de Beaurenard,3.9,25,26.9,2017,Red
+Rouge (Estate Reserve) 2014,South Africa,Stellenbosch,Morgenster Estate,4.1,74,36.5,2014,Red
+Grüner Veltliner Federspiel Himmelstiege 2019,Austria,Wachau,Domäne Wachau,3.7,61,10.3,2019,
+Les Princes Abbés Riesling Alsace 2016,France,Alsace,Domaines Schlumberger,3.7,333,11.6,2016,
+Brut Almerita Regaleali 2015,Italy,Contea di Sclafani,Tasca d'Almerita,3.9,105,24.2,2015,
+Saffredi 2017,Italy,Maremma Toscana,Fattoria le Pupille,4.4,73,77.5,2017,Red
+Valpolicella Classico 2018,Italy,Valpolicella Classico,Paolo Cottini,3.6,27,11.9,2018,Red
+Barolo 2011,Italy,Barolo,Domenico Clerico,4.1,543,33.85,2011,Red
+Saint-Estèphe (Grand Cru Classé) 2010,France,Saint-Estèphe,Château Lafon-Rochet,4.1,1272,55.0,2010,Red
+Gran Reserva Merlot 2015,Chile,Maipo Valley,Carmen,3.7,660,12.6,2015,Red
+Pomerol 2011,France,Pomerol,Château La Grave (Trigant de Boisset),4.1,174,39.9,2011,Red
+Blanc de Blancs Réserve Brut Nature N.V.,Germany,Pfalz,Eymann,3.9,25,31.18,N.V.,
+Estate Rauenthal Riesling 2018,Germany,Rheingau,Georg Breuer,3.8,73,15.0,2018,
+Médoc 2012,France,Médoc,Château Lousteauneuf,3.8,318,18.9,2012,Red
+Sidereus 2016,Italy,Toscana,Cantine del Borgo Reale,3.8,122,26.81,2016,Red
+Primitivo di Manduria 2018,Italy,Primitivo di Manduria,Epicuro,3.9,517,8.5,2018,Red
+Pinot Noir de Purcari 2017,Moldova,South Eastern,Château Purcari,3.7,624,12.98,2017,Red
+Toscana Bugia 2015,Italy,Toscana,Bibi Graetz,3.8,123,38.89,2015,
+Spätburgunder 2015,Germany,Burkheim,Weingut Bercher,3.4,25,11.65,2015,Red
+Rouge (Estate Reserve) 2003,South Africa,Stellenbosch,Morgenster Estate,4.3,519,38.94,2003,Red
+Pauillac (Grand Cru Classé) 2016,France,Pauillac,Château Batailley,4.2,187,65.0,2016,Red
+Sangre de Toro Blanco 2017,Spain,Catalunya,Torres,3.3,318,8.89,2017,
+Paolo e Carlo Primitivo di Manduria Riserva Sessantasei 66 2016,Italy,Primitivo di Manduria,Conte di Campiano,4.1,229,8.66,2016,Red
+Sauvignon Blanc Attitude 2018,France,Touraine,Pascal Jolivet,3.8,901,12.51,2018,
+Brunello di Montalcino Riserva Vigna Paganelli 2012,Italy,Brunello di Montalcino,Tenuta Il Poggione,4.3,740,63.16,2012,Red
+Chardonnay 2018,France,Pays d'Oc,Abbotts & Delaunay,3.7,28,6.73,2018,
+Saulheimer Riesling Kalkstein 2016,Germany,Rheinhessen,Thörle,3.9,148,12.18,2016,
+Chianti Riserva 2016,Italy,Chianti,Majnoni Guicciardini,3.8,28,15.01,2016,Red
+Haut-Médoc 2008,France,Haut-Médoc,Château Peyrabon,3.6,189,17.4,2008,Red
+SL Riesling Trocken 2018,Germany,Mosel,Schloss Lieser,3.8,156,8.4,2018,
+Grenache - Mourvedre - Shiraz 2016,Australia,Barossa Valley,Schild Estate,3.5,191,15.9,2016,Red
+Brut Blanc De Blancs 2015,South Africa,Robertson,Graham Beck,4.0,92,19.9,2015,
+Fiano Di Avellino 2019,Italy,Fiano de Avellino,Feudi di San Gregorio,4.0,64,11.5,2019,
+Zweigelt 2017,Austria,Burgenland,Judith Beck,3.9,102,10.6,2017,Red
+Clifford Bay Reserve Sauvignon Blanc 2018,New Zealand,Marlborough,Villa Maria,4.2,470,19.55,2018,
+Vouvray Brut N.V.,France,Vouvray,Vigneau-Chevreau,3.8,562,14.5,N.V.,
+Agnus Merlot 2011,Brazil,Encruzilhada do Sul,Lidio Carraro,3.2,722,11.65,2011,Red
+Refosco Dal Peduncolo Rosso Veneto 2015,Italy,Veneto,Torresella,3.4,42,6.77,2015,Red
+Berg Riesling 2018,France,Alsace,Domaine Pfister,4.2,25,15.9,2018,
+Sasso Bucato 2017,Italy,Toscana,Russo,4.1,37,20.96,2017,Red
+Bandol Rouge 2016,France,Bandol,Gros' Noré,4.1,134,31.9,2016,Red
+Châteauneuf-Du-Pape La Paillousse Terroir D'Exception Rouge 2016,France,Châteauneuf-du-Pape,Pierre Amadieu,4.0,45,29.47,2016,Red
+Pinot Fin Bourgogne 2017,France,Bourgogne,Domaine Arnoux-Lachaux,3.9,47,44.96,2017,Red
+Vieilles Vignes Châteauneuf-du-Pape Blanc 2014,France,Châteauneuf-du-Pape,Château de Beaucastel,4.6,158,135.5,2014,
+Dark (Red Blend) 2017,United States,California,Apothic,3.7,704,8.18,2017,Red
+Brut N.V.,Luxembourg,Luxembourg,Domaine Alice Hartmann,4.2,653,29.95,N.V.,
+Torricella 2016,Italy,Toscana,Ricasoli,3.9,283,11.9,2016,
+Pinotage 2016,South Africa,Stellenbosch,Kanonkop,4.2,1208,39.19,2016,Red
+Keyneton Euphonium 2014,Australia,Eden Valley,Henschke,4.3,672,59.74,2014,Red
+Haut-Médoc 2012,France,Haut-Médoc,Château Sénéjac,3.6,794,19.42,2012,Red
+Lo Cortinelo.Lo Blanc 2016,Spain,Plà i Llevant,Es Fangar,4.3,41,28.1,2016,
+Cerro Añon Rioja Gran Reserva 2011,Spain,Rioja,Bodegas Olarra,4.1,103,14.65,2011,Red
+Réserve Graves Blanc 2017,France,Graves,Mouton Cadet,3.4,36,14.83,2017,
+Basilicata Greco - Fiano 2017,Italy,Basilicata,Brandano,3.9,31,8.77,2017,
+Brauneberger Juffer Sonnenuhr Riesling Spätlese 2018,Germany,Brauneberg,Fritz Haag,4.1,36,20.5,2018,
+Cecilia B. Vino Spumante Bianco N.V.,Italy,Veneto,Cecilia Beretta,3.8,133,9.99,N.V.,
+Wiener Gemischter Satz 2014,Austria,Wiener Gemischter Satz,Wieninger,3.4,139,10.3,2014,
+Lagrein 2018,Italy,Südtirol - Alto Adige,Tramin,3.7,455,9.62,2018,Red
+Belleruche Côtes du Rhône Rosé 2019,France,Côtes-du-Rhône,M. Chapoutier,3.6,46,9.69,2019,
+Saint-Émilion Grand Cru 2010,France,Saint-Émilion Grand Cru,Château Lucia,3.9,47,56.95,2010,Red
+Gigondas Le Claux 2012,France,Gigondas,Château de Saint Cosme,4.3,76,75.0,2012,Red
+Granato 2016,Italy,Vigneti delle Dolomiti,Foradori,4.1,254,45.72,2016,Red
+Saint-Estèphe 2016,France,Saint-Estèphe,Château Clauzet,3.8,109,24.75,2016,Red
+Barbera d'Alba Aves 2018,Italy,Barbera d'Alba,Comm. G.B. Burlotto,4.0,112,24.0,2018,Red
+Nirvasco Barolo 2015,Italy,Barolo,Bersano,3.8,241,34.99,2015,Red
+Villa Fidelia Rosso 2009,Italy,Umbria,Sportoletti,4.0,174,19.5,2009,Red
+Côtes de Provence Rosé 2019,France,Côtes de Provence,Marchandise,4.2,72,11.6,2019,
+Villa Mura Merlot Veneto 2016,Italy,Veneto,Sartori,3.4,138,4.57,2016,Red
+Porcupine Ridge Syrah 2019,South Africa,Swartland,Boekenhoutskloof,3.5,97,10.45,2019,Red
+Blauer Spätburgunder 2016,Germany,Baden,Ziereisen,3.3,60,9.8,2016,Red
+Mormoreto Toscana 2015,Italy,Toscana,Castello Nipozzano,4.4,639,60.44,2015,Red
+Blanc 2017,Spain,Bizkaiko Txakolina,Gorka Izagirre,3.6,267,10.99,2017,
+Castel del Monte Bolonero 2018,Italy,Castel del Monte,Torrevento,3.5,196,5.95,2018,Red
+Veneto Bianco 2017,Italy,Veneto,Cantina di Soave,2.7,25,5.42,2017,
+Thalarn 2015,Spain,Costers del Segre,Castell d'Encus,4.0,248,37.95,2015,Red
+Pierneef Collection Shiraz - Viognier 2017,South Africa,Franschhoek,La Motte Wine Estate,4.1,425,17.89,2017,Red
+La Caduta Rosso di Montalcino 2016,Italy,Rosso di Montalcino,Caparzo,3.9,50,16.9,2016,Red
+Châteauneuf-du-Pape 2004,France,Châteauneuf-du-Pape,Tardieu-Laurent,4.2,38,49.95,2004,Red
+L'Ermita Velles Vinyes Priorat 2008,Spain,Priorat,Álvaro Palacios,4.8,32,672.6,2008,Red
+Vermentino 2017,Italy,Toscana,Famiglia Castellani,3.8,25,5.65,2017,
+Saint-Véran 2018,France,Saint-Véran,Joseph Drouhin,3.8,277,16.6,2018,
+Passion 2015,Austria,Burgenland,Reunion,3.7,38,18.49,2015,Red
+Gran Maestro Primitivo di Manduria 2016,Italy,Primitivo di Manduria,Maestro Italiano,3.8,427,8.61,2016,Red
+Reserve Pinotage 2017,South Africa,Stellenbosch,Beyerskloof,3.9,275,18.5,2017,Red
+Riserva Salice Salentino 2012,Italy,Salice Salentino,Paololeo,4.2,138,11.95,2012,Red
+Etna Calderara Sottana Rosso 2016,Italy,Etna,Tenuta delle Terre Nere,4.1,306,47.87,2016,Red
+Premium Sauvignon Blanc 2019,New Zealand,Marlborough,Saint Clair,3.9,30,10.95,2019,
+Pessac-Léognan (Premier Grand Cru Classé) 2008,France,Pessac-Léognan,Château Haut-Brion,4.6,489,414.95,2008,Red
+Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Prosecco di Treviso,Val d'Oca,3.7,921,11.6,N.V.,
+Franciacorta Rosé N.V.,Italy,Franciacorta,Contadi Castaldi,3.8,2649,19.9,N.V.,
+Scheu... Aber Geil! 2018,Germany,Pfalz,Emil Bauer & Söhne,3.5,58,9.65,2018,
+Brut 2010,Germany,Rheingau,Georg Breuer,3.7,30,35.9,2010,
+M Red 2012,Chile,Colchagua Valley,Montes Alpha,4.3,2101,63.39,2012,Red
+Franciacorta Cuvée Prestige Rosé N.V.,Italy,Franciacorta,Ca' del Bosco,4.0,982,38.9,N.V.,
+Rust Tridendron Trocken 2016,Austria,Burgenland,Ernst Triebaumer,3.9,42,13.42,2016,Red
+The Dead Arm Shiraz 2016,Australia,McLaren Vale,d'Arenberg,4.0,736,39.0,2016,Red
+Fiano 2018,Italy,Puglia,Epicuro,3.5,138,10.99,2018,
+Le Pur Fruit du Causse Cahors 2017,France,Cahors,Château Combel La Serre,3.7,715,17.74,2017,Red
+Grande Cuvée Corbières Rouge 2017,France,Corbières,Château Amandiers,2.8,56,8.33,2017,Red
+Reserva Varietales 2015,Spain,Uclés,Finca La Estacada,3.7,36,13.25,2015,Red
+R de Romaneira 2016,Portugal,Douro,Quinta da Romaneira,3.8,150,11.35,2016,Red
+Zeltinger Himmelreich Riesling Kabinett 2016,Germany,Mosel,Markus Molitor,3.9,210,15.2,2016,
+Merlot (Selezione) 2017,Italy,Südtirol - Alto Adige,Elena Walch,3.7,45,14.72,2017,Red
+Carte Blanche N.V.,Germany,Baden,Geldermann,3.6,505,12.09,N.V.,
+Rubereto 2015,Italy,Toscana,Tenuta Orsumella,3.8,29,21.5,2015,Red
+Privat Trocken N.V.,Germany,Rheingau,Ohlig Sekt,3.7,38,6.81,N.V.,
+Orvieto Classico Bianco 2019,Italy,Orvieto,Ruffino,3.6,55,6.49,2019,
+Bandol Rouge 2011,France,Bandol,Gros' Noré,4.1,326,49.9,2011,Red
+Saint-Émilion Grand Cru (Premier Grand Cru Classé) 2011,France,Saint-Émilion Grand Cru,Château Magdelaine,4.2,167,96.14,2011,Red
+Martin Melck Cabernet Sauvignon 2012,South Africa,Stellenbosch,Muratie,3.9,43,17.29,2012,Red
+Brunello di Montalcino 2014,Italy,Brunello di Montalcino,Ciacci Piccolomini d'Aragona,4.2,553,38.89,2014,Red
+Opi Montepulciano d'Abruzzo Colline Teramane Riserva 2011,Italy,Montepulciano d'Abruzzo Colline Teramane,Farnese,4.2,566,23.19,2011,Red
+La Quintanilla 2012,Spain,Rioja,Baigorri,3.8,145,35.09,2012,Red
+Barolo Cerretta 2010,Italy,Barolo,Ettore Germano,4.1,238,51.41,2010,Red
+Abracadabrantesque 2014,France,Coteaux Varois en Provence,Domaine les Terres Promises,3.6,29,15.9,2014,Red
+L'Hospitalet de Gazin Pomerol 2017,France,Pomerol,Château Gazin,3.9,32,36.56,2017,Red
+Primitivo - Merlot Zolla 2018,Italy,Puglia,Vigneti del Salento,3.9,142,7.26,2018,Red
+GB Charm Riesling 2018,Germany,Rheingau,Georg Breuer,3.7,228,9.26,2018,
+Cepparello Red 2016,Italy,Toscana,Isole e Olena,4.2,301,82.45,2016,Red
+Don Miguel Vineyard La Masía Pinot Noir 2016,United States,Russian River Valley,Marimar Estate,4.1,79,54.5,2016,Red
+Thauvenay Sancerre Blanc 2014,France,Sancerre,Domaine Masson-Blondelet,3.9,115,15.5,2014,
+Escheburg 2014,Germany,Mosel,Immich-Batterieberg,3.8,56,15.5,2014,
+Haut-Médoc 2014,France,Haut-Médoc,Château Clement-Pichon,3.7,261,18.9,2014,Red
+Pinot Noir Carneros 2016,United States,Los Carneros,Schug,4.0,480,37.9,2016,Red
+Vigneto Poggio Doria Brunello di Montalcino 2010,Italy,Brunello di Montalcino,Tenute Silvio Nardi,4.2,68,77.5,2010,Red
+Puligny-Montrachet 2015,France,Puligny-Montrachet,Domaine Henri Boillot,4.0,72,65.0,2015,
+Bosc Silvestre Tinto 2016,Spain,Costers del Segre,Costers del Sió,3.9,164,10.9,2016,Red
+Cèdre Héritage Malbec 2015,France,Cahors,Château du Cèdre,3.7,210,8.5,2015,Red
+Rosato Frizzante N.V.,Italy,Veneto,Le Carline,3.9,25,7.95,N.V.,
+Terra do Zambujeiro 2015,Portugal,Borba,Quinta do Zambujeiro,4.1,179,25.34,2015,Red
+Il Favot Langhe Nebbiolo 2016,Italy,Langhe,Aldo Conterno,4.2,82,41.61,2016,Red
+Cubía (Tenuta Ficuzza) 2014,Italy,Sicilia,Cusumano,3.7,225,13.55,2014,
+Seigneur de Maugiron Côte-Rôtie 2011,France,Côte-Rôtie,Delas,4.2,218,67.02,2011,Red
+Memorious Pinot Noir 2016,United States,Sta. Rita Hills,Domaine de la Côte,4.0,125,54.0,2016,Red
+Margaux (Grand Cru Classé) 2013,France,Margaux,Château Rauzan-Ségla,3.9,376,67.26,2013,Red
+Costamolino Vermentino di Sardegna 2019,Italy,Vermentino di Sardegna,Argiolas,3.9,298,7.4,2019,
+Blanc de Blancs Brut Champagne Premier Cru 2010,France,Champagne Premier Cru,Paul Michel,3.9,36,31.68,2010,
+I Gran Reserva 2008,Spain,Rioja,Bodegas Faustino,4.0,7941,14.75,2008,Red
+Châteauneuf-du-Pape Reserve 2016,France,Châteauneuf-du-Pape,Cellier des Princes,3.8,30,24.49,2016,Red
+Clos de Vougeot Grand Cru 2011,France,Clos Vougeot Grand Cru,Joseph Drouhin,4.4,38,174.49,2011,Red
+Magna Dolcetto d'Alba 2017,Italy,Dolcetto d'Alba,Paolo Manzone,3.6,46,11.6,2017,Red
+Barón de Chirel Rioja Reserva 2014,Spain,Rioja,Marqués de Riscal,4.3,491,84.11,2014,Red
+Königsschild Riesling 2016,Germany,Nahe,Martin Tesch,3.5,45,13.9,2016,
+Barbera d'Asti Camp du Rouss 2016,Italy,Barbera d'Asti,Coppo,4.0,655,18.97,2016,Red
+Chablis 2015,France,Chablis,William Fèvre,3.8,2487,22.39,2015,
+Pinot Grigio 2017,Italy,Südtirol - Alto Adige,Kettmeir,3.9,117,12.99,2017,
+Tradition Côtes du Roussillon Villages 2016,France,Côtes du Roussillon Villages,Domaine Boudau,3.7,31,9.26,2016,Red
+Crozes-Hermitage Domaine de Thalabert 2012,France,Crozes-Hermitage,Paul Jaboulet Aîné,3.9,700,29.5,2012,Red
+Red Top Sec Champagne N.V.,France,Champagne,Heidsieck & Co. Monopole,3.7,388,29.79,N.V.,
+Trentanni 2015,Italy,Umbria,Falesco,3.7,173,11.4,2015,Red
+Barolo 2014,Italy,Barolo,Borgogno,3.9,1295,50.85,2014,Red
+Sauvignon Blanc 2017,United States,North Coast,Spottswoode,4.0,199,36.9,2017,
+Echter Secco N.V.,Germany,Franken,Juliusspital,4.0,95,9.62,N.V.,
+The Rose Garden Rosé 2019,South Africa,Coastal Region,Boschendal,3.7,221,8.9,2019,
+Chablis 2018,France,Chablis,Bernard Defaix,3.9,303,17.9,2018,
+Riesling Federspiel Himmelstiege 2019,Austria,Wachau,Domäne Wachau,3.4,28,9.85,2019,
+Bramare Rebon Vineyard Malbec 2014,Argentina,Mendoza,Viña Cobos,4.4,743,74.99,2014,Red
+Cabernet Sauvignon 2017,United States,Napa Valley,Robert Mondavi,4.1,186,32.66,2017,Red
+JT Rouge Costières de Nîmes 2010,France,Costières-de-Nîmes,Château de Nages,3.6,200,46.79,2010,Red
+Côtes du Rhône 2018,France,Côtes-du-Rhône,Domaine de la Solitude,3.8,92,9.0,2018,Red
+Sperber Pinot Noir 2013,Germany,Baden,Salwey,3.9,25,35.74,2013,Red
+Chianti Classico Riserva 2014,Italy,Chianti Classico,Castellani,3.5,165,9.61,2014,Red
+Sciare di Est Grillo 2017,Italy,Terre Siciliane,Antichi Vinai,3.7,45,7.42,2017,
+Clos de Los Siete (by Michel Rolland) 2017,Argentina,Mendoza,Clos de los Siete,4.0,477,14.13,2017,Red
+Beef & Liberty Shiraz 2017,Australia,Limestone Coast,The Beefsteak Club,3.5,526,9.9,2017,Red
+Côte-Rôtie 2004,France,Côte-Rôtie,Tardieu-Laurent,4.1,35,79.95,2004,Red
+Shiraz 2019,South Africa,Western Cape,Golden Kaan,3.4,95,5.79,2019,Red
+Syrah - Viognier Sud de France 2017,France,Pays d'Oc,Arrogant Frog,3.5,51,7.75,2017,Red
+Cabernet Sauvignon 50 Years 2016,United States,Columbia Valley,Chateau Ste. Michelle,3.9,326,14.0,2016,Red
+Gigondas 2017,France,Gigondas,Château de Saint Cosme,3.9,232,33.0,2017,Red
+Altitud Chardonnay 2016,Argentina,Tupungato,Andeluna,3.4,111,13.26,2016,
+Pioneer Block 3 43 Degrees Sauvignon Blanc 2019,New Zealand,Marlborough,Saint Clair,4.0,55,18.95,2019,
+Secco Rosé N.V.,Germany,German Wine,Kloster Eberbach,4.0,70,9.97,N.V.,
+Ca'Marcanda Vistamare Toscana 2018,Italy,Toscana,Gaja,4.1,384,41.9,2018,
+Minervois (Syrah - Carignan) 2017,France,Minervois,Gérard Bertrand,3.8,228,9.99,2017,Red
+Rosé Brut N.V.,Italy,Veneto,Donelli,3.7,134,8.5,N.V.,
+Lamaione Toscana 2012,Italy,Toscana,Tenuta CastelGiocondo,4.4,279,53.35,2012,Red
+Red 2013,Chile,Maipo Valley,Viñedo Chadwick,4.6,193,193.01,2013,Red
+Châteauneuf-du-Pape Rouge 2015,France,Châteauneuf-du-Pape,Les Halos de Jupiter,4.1,52,36.56,2015,Red
+Nielson Vineyard Pinot Noir 2014,United States,Santa Maria Valley,Byron,3.8,312,32.95,2014,Red
+Chablis Grand Cru 'Les Clos' 2016,France,Chablis Grand Cru,Louis Michel & Fils,4.3,65,80.57,2016,
+Pievecroce 2018,Italy,Lugana,Costaripa,3.8,119,11.9,2018,
+Chablis 2018,France,Chablis,Domaine Hamelin,3.8,175,15.8,2018,
+Memòries de Biniagual Blanc 2018,Spain,Binissalem-Mallorca,Biniagual,3.5,33,14.13,2018,
+Franciacorta Saten Brut 2015,Italy,Franciacorta,Ferghettina,4.0,265,38.7,2015,
+Stropa Amarone della Valpolicella 2011,Italy,Amarone della Valpolicella Classico,Monte Dall'Ora,4.5,97,83.9,2011,Red
+Joseph Meczan Pinot Nero - Blauburgunder Alto Adige 2016,Italy,Südtirol - Alto Adige,J. Hofstätter,3.6,1064,13.48,2016,Red
+Chardonnay 2018,France,Pays d'Oc,Baron Philippe de Rothschild,3.5,226,8.78,2018,
+Alghero Torbato Spumante Brut N.V.,Italy,Alghero,Sella & Mosca,3.6,733,14.41,N.V.,
+Margaux (Grand Cru Classé) 2016,France,Margaux,Château Palmer,4.7,73,437.68,2016,Red
+San Leonardo 2014,Italy,Vigneti delle Dolomiti,San Leonardo,4.2,474,64.0,2014,Red
+Terroir du Trias Bandol Rouge 2006,France,Bandol,Domaine de Terrebrune,4.0,169,59.9,2006,Red
+Falanghina del Sannio 2019,Italy,Sannio,Mastroberardino,3.5,72,9.9,2019,
+La Cueva del Contador Rioja 2015,Spain,Rioja,Bodega Contador (Benjamín Romeo),4.4,291,86.98,2015,Red
+Vendemmia Brut 2013,Italy,Franciacorta,Bellavista,4.2,535,37.9,2013,
+Maremma Toscana Ornello 2015,Italy,Maremma Toscana,Rocca di Frassinello,3.9,629,14.9,2015,Red
+Barolo 2010,Italy,Barolo,Aurelio Settimo,3.9,141,39.19,2010,Red
+Cos d'Estournel 2005,France,Saint-Estèphe,Cos d'Estournel,4.6,1608,248.95,2005,Red
+Kali Hart Pinot Noir 2016,United States,Monterey,Talbott,3.8,976,24.57,2016,Red
+Chianti 2016,Italy,Chianti,Monte Guelfo,3.2,243,6.97,2016,Red
+Chardonnay Castel del Monte Pietrabianca 2018,Italy,Castel del Monte,Tormaresca,4.1,340,19.29,2018,
+Edición Fábulas Tempranillo 2016,Spain,Rioja,Larchago,3.6,25,11.02,2016,Red
+Louro do Bolo Godello Valdeorras 2019,Spain,Valdeorras,Rafael Palacios,3.9,60,15.9,2019,
+Les Terrasses Rouge 2011,France,Côtes de Provence,Vallombrosa,4.3,29,28.49,2011,Red
+Celia 2014,Spain,Ribera del Duero,Vizcarra,4.2,31,73.59,2014,Red
+Cellar Selection Cabernet Sauvignon 2017,South Africa,Stellenbosch,Kleine Zalze,3.5,495,9.5,2017,Red
+Brut Rosé Champagne (Cuvée Royale) N.V.,France,Champagne,Joseph Perrier,3.8,419,45.6,N.V.,
+Grandi Annate Vino Nobile di Montepulciano 2012,Italy,Vino Nobile di Montepulciano,Avignonesi,4.2,629,68.14,2012,Red
+Modello Pinot Grigio 2019,Italy,Veneto,Masi,3.8,83,8.99,2019,
+Ca' di Pian Barbera d'Asti 2016,Italy,Barbera d'Asti,La Spinetta,4.0,879,21.5,2016,Red
+Compleo Cuvée Blanc 2018,Switzerland,Zürich,Staatskellerei Zürich,3.8,103,16.08,2018,
+Marquês de Montemor 2017,Portugal,Alentejano,Quinta da Plansel,3.6,391,4.85,2017,Red
+RWT Shiraz 2017,Australia,Barossa Valley,Penfolds,4.4,102,229.0,2017,Red
+NC (Non Confunditur) Toscana 2017,Italy,Toscana,Argiano,3.8,442,12.49,2017,Red
+Pechstein GG 2017,Germany,Pfalz,Reichsrat von Buhl,4.1,43,45.0,2017,
+Cabernet Sauvignon 2015,Australia,Margaret River,Xanadu,3.8,167,21.5,2015,Red
+Sélection Spéciale Grenache - Syrah - Mourvèdre 2017,France,Pays d'Oc,Les Jamelles,3.8,67,13.37,2017,Red
+Valdepeñas Gran Reserva 2010,Spain,Valdepeñas,Pata Negra,3.6,2439,6.3,2010,Red
+Cabernet Sauvignon 2015,United States,Columbia Valley,14 Hands,3.6,2598,11.6,2015,Red
+Bordeaux Rosé 2018,France,Bordeaux,Château Landonnet,3.2,87,8.78,2018,
+Danie de Wet Chardonnay 2015,South Africa,Robertson,De Wetshof,3.9,286,28.6,2015,
+Filsell Shiraz 2016,Australia,Barossa,Grant Burge,4.0,635,26.8,2016,Red
+Morellino di Scansano 2017,Italy,Maremma Toscana,Val delle Rose,3.7,298,11.92,2017,Red
+Rosso di Montalcino 2018,Italy,Rosso di Montalcino,Col d'Orcia,3.5,191,12.9,2018,Red
+Chardonnay 2018,Germany,Rheinhessen,Krämer - Straight,3.9,25,8.99,2018,
+Grand Cru Sagrada Familia 2015,Chile,Lontue Valley,Caballo Loco,4.4,1372,27.2,2015,Red
+Mi Pueblo Cabernet Sauvignon 2019,Chile,Central Valley,Viña Maipo,3.3,139,6.5,2019,Red
+Il Vescovado 2014,Italy,Calabria,Chimento,3.9,36,11.2,2014,Red
+Siepi 2016,Italy,Toscana,Mazzei,4.3,300,89.0,2016,Red
+Saint-Estèphe 2013,France,Saint-Estèphe,Château Haut-Beauséjour,3.7,512,27.71,2013,Red
+Chardonnay Kalkstein Trocken 2018,Germany,Rheinhessen,Manz,3.9,25,11.5,2018,
+Malabrigo Ribera del Duero 2015,Spain,Ribera del Duero,Cepa 21,4.3,187,48.45,2015,Red
+Sauvignon Blanc 2018,Australia,South Australia,Oxford Landing,3.2,124,7.9,2018,
+Spätburgunder 2015,Germany,Baden,Fritz Waßmer,3.7,152,6.0,2015,Red
+Hard 2017,Germany,Baden,Ziereisen,4.3,27,26.5,2017,
+Prosecco Superiore di Conegliano Valdobbiadene Millesimato Brut 2018,Italy,Conegliano-Valdobbiadene Prosecco,Canella,3.9,165,13.97,2018,
+Brut Champagne 2010,France,Champagne,Dom Pérignon,4.6,131,167.48,2010,
+Blanco 2018,Spain,Rioja,Eguren Ugarte,3.4,26,4.5,2018,
+Excellence Brut Rosé N.V.,France,Loire Valley,Bouvet-Ladubay,3.8,1204,12.0,N.V.,
+Les Obriers de la Peira Terrasses du Larzac 2017,France,Terrasses du Larzac,La Pèira en Damaisèla,4.1,100,14.52,2017,Red
+Sand & Kalk 2015,Austria,Steiermark,Herrenhof Lamprecht,4.1,40,24.91,2015,
+Haut-Médoc 2016,France,Haut-Médoc,Château Cambon La Pelouse,3.8,434,17.95,2016,Red
+El Terroir 2014,Spain,Navarra,Domaines Lupier,3.9,241,18.5,2014,Red
+Blaufränkisch 2017,Austria,Burgenland,Strehn,3.4,28,10.28,2017,Red
+Esprit de Victoria Blanc de Blancs Brut Champagne N.V.,France,Champagne,Joseph Perrier,4.0,237,55.85,N.V.,
+HEBO (Suvereto) 2018,Italy,Toscana,Petra,4.0,58,14.9,2018,Red
+Forster Ungeheuer Riesling 2018,Germany,Pfalz,Von Winning,4.3,27,35.0,2018,
+Schiefer Riesling 2018,Germany,Mosel,Van Volxem,3.8,172,9.72,2018,
+The Spur Red Blend 2016,United States,Livermore Valley,Murrieta's Well,3.9,555,27.15,2016,Red
+Appassimento 2018,Italy,Salento,Aristocratico,3.9,375,7.79,2018,Red
+Brunello di Montalcino 2015,Italy,Brunello di Montalcino,Collosorbo,4.2,36,40.95,2015,Red
+Terroir d'Altitude Chardonnay 2017,France,Pays d'Oc,Fortant,3.9,40,9.5,2017,
+Moscato 2018,Spain,Valencia,The Tapas Wine Collection,3.9,53,7.53,2018,
+Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Bepin de Eto,3.8,1009,10.85,N.V.,
+Melisseo Superiore Cirò Rosso 2016,Italy,Cirò,Cantine de Luca,3.6,46,7.6,2016,Red
+Altura Máxima Malbec 2014,Argentina,Salta,Colomé,4.3,233,102.41,2014,Red
+Gran Reserva Rioja 2008,Spain,Rioja,Lan,3.9,1152,17.25,2008,Red
+Mirinè Nebbiolo d'Alba 2016,Italy,Nebbiolo d'Alba,Paolo Manzone,3.9,92,19.4,2016,Red
+Classic Riesling 2015,France,Alsace,Hugel,3.7,1006,13.6,2015,
+Côté Chardonnay - Sauvignon 2018,France,Gascogne,Domaine du Tariquet,3.9,176,8.95,2018,
+Southern Hills Cabernet Sauvignon 2014,United States,Livermore Valley,Wente,3.8,1971,14.29,2014,Red
+Grauburgunder 2018,Germany,Pfalz,Rings,3.6,48,9.45,2018,
+Vom Schiefer 2018,Germany,Nahe,Gut Hermannsberg,3.9,44,15.65,2018,
+Imagine 2015,France,Ventoux,Vindemio,3.7,42,12.95,2015,Red
+Blanc de Blancs Brut N.V.,France,Champagne,Barons de Rothschild (Lafite),4.1,736,70.41,N.V.,
+Rosado 2019,Spain,Rioja,Muga,3.8,246,8.68,2019,
+Sauvignon Blanc 2019,South Africa,Western Cape,Du Toitskloof,3.3,73,7.5,2019,
+La Femme Soleil 2018,France,Languedoc-Roussillon,Domaine Hors Champ,3.4,42,21.45,2018,
+Lalande-de-Pomerol 2015,France,Lalande-de-Pomerol,Château La Fleur de Boüard,4.1,398,37.95,2015,Red
+Ribera del Duero 14 Meses en Barrica 2015,Spain,Ribera del Duero,Monteabellon,3.9,243,32.0,2015,Red
+Clos du Marquis Saint-Julien 2012,France,Saint-Julien,Château Léoville Las Cases,4.1,562,55.08,2012,Red
+Cuvée Joséphine Brut Champagne N.V.,France,Champagne,Joseph Perrier,4.3,583,112.53,N.V.,
+Merlot 2015,Chile,Colchagua Valley,Montes Alpha,3.8,837,16.09,2015,Red
+Reserva Rioja Tempranillo 2009,Spain,Rioja,Baigorri,4.0,901,56.54,2009,Red
+Cabernet Sauvignon 2014,United States,Napa Valley,Gallo Signature Series,4.1,763,45.59,2014,Red
+Rosenberg 2014,Austria,Carnuntum,Markowitsch,4.1,57,34.8,2014,Red
+Sauvignon Blanc 2017,New Zealand,Marlborough,Leefield Station,3.7,64,14.9,2017,
+Chardonnay 2018,United States,Napa Valley,Black Stallion,3.9,710,22.35,2018,
+Reserva 2014,Spain,Cariñena,Marqués de Ballestar,3.4,31,7.89,2014,Red
+Grauburgunder Trocken vom Kalkstein 2018,Germany,Pfalz,Neiss,3.9,111,8.95,2018,
+Riesling Trocken 2016,Germany,Rheingau,Schloss Vollrads,3.8,201,10.69,2016,
+Regaleali Bianco Sicilia 2019,Italy,Terre Siciliane,Tasca d'Almerita,3.7,108,7.42,2019,
+Blason d'Aussières Corbières 2018,France,Corbières,Château d’Aussières,4.1,39,12.9,2018,Red
+Douro Redoma Tinto 2011,Portugal,Douro,Niepoort,4.0,461,34.89,2011,Red
+Steinzeiler 2015,Austria,Burgenland,Kollwentz,4.4,92,58.8,2015,Red
+Aufwind Cuvée Rotwein 2016,Germany,Pfalz,Hensel,4.0,80,11.5,2016,Red
+Caspagnolo Chianti dei Colli Senesi 2018,Italy,Chianti Colli Senesi,Villa Poggio Salvi,3.9,257,7.99,2018,Red
+Pinot Nero 2017,Italy,Südtirol - Alto Adige,Franz Haas,3.9,716,23.5,2017,Red
+Chenin Blanc 2018,South Africa,Stellenbosch,Fleur du Cap,3.6,38,8.75,2018,
+Sior Piero Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,V8+,3.8,674,13.07,N.V.,
+Weissburgunder Trocken 2018,Germany,Pfalz,Studier,3.8,28,7.64,2018,
+Glicine Bianco 2019,Italy,Terre Siciliane,Corvo,3.6,93,6.95,2019,
+Rioja Rosado 2019,Spain,Rioja,Marqués de Cáceres,3.8,132,7.99,2019,
+Messiio Maremma Toscana 2015,Italy,Maremma Toscana,Fertuna,4.1,125,21.24,2015,Red
+Saint-Estèphe 2013,France,Saint-Estèphe,Château Lilian Ladouys,3.7,371,21.63,2013,Red
+Sonett Spätburgunder 2015,Germany,Baden,Heger,3.4,27,11.17,2015,Red
+Sir Winston Churchill Brut Champagne 2009,France,Champagne,Pol Roger,4.6,117,184.24,2009,
+Haut-Médoc 2014,France,Haut-Médoc,Château Saint-Ahon,3.9,122,18.42,2014,Red
+Corasco 2015,Italy,delle Venezie,Tedeschi,3.7,184,12.5,2015,Red
+Frühtau Riesling Trocken 2016,Germany,Nahe,Emrich-Schönleber,4.0,41,17.9,2016,
+Baltos Mencía 2016,Spain,Bierzo,Dominio de Tares,3.6,207,12.14,2016,Red
+Clos de Los Siete (by Michel Rolland) 2016,Argentina,Mendoza,Clos de los Siete,3.9,5383,16.27,2016,Red
+Chardonnay Leithakalk 2018,Austria,Burgenland,Kollwentz,3.7,42,20.28,2018,
+Sancerre Blanc 2018,France,Sancerre,Alban Roblin,3.8,31,18.31,2018,
+Domaine de Bila-Haut Occultum Lapidem 2017,France,Côtes du Roussillon Villages 'Latour de France',M. Chapoutier,3.9,229,17.5,2017,Red
+Pinot Bianco 2018,Italy,Südtirol - Alto Adige,Cantina Bolzano / Kellerei Bozen,3.5,55,11.02,2018,
+Tenuta Guado al Tasso Scalabrone Bolgheri Rosato 2019,Italy,Bolgheri,Antinori,3.8,160,14.89,2019,
+Alicante 2016,Spain,Alicante,El Sequé,4.0,162,24.18,2016,Red
+The Long Walk Chardonnay 2019,South Africa,Western Cape,Footprint,3.6,64,6.5,2019,
+Chianti Classico Vigneto Gran Selezione San Lorenzo 2013,Italy,Chianti Classico,Castello di Ama,3.9,1265,31.53,2013,Red
+Greco - Fiano Basilicata Pipoli 2019,Italy,Basilicata,Vigneti del Vulture,3.9,98,5.54,2019,
+The Laughing Magpie Shiraz - Viognier 2007,Australia,McLaren Vale,d'Arenberg,3.9,194,47.5,2007,Red
+Pomerol 2012,France,Pomerol,Château La Grave (Trigant de Boisset),4.1,150,48.54,2012,Red
+Josef Spreitzer Riesling Trocken 2018,Germany,Rheingau,Spreitzer,3.5,30,8.9,2018,
+Cordillera Reserva Especial Cabernet Sauvignon 2015,Chile,Maipo Valley,Miguel Torres,3.8,231,16.48,2015,Red
+Châteauneuf-du-Pape Cuvée Anonyme Rouge 2016,France,Châteauneuf-du-Pape,Xavier Vignon,4.0,243,39.95,2016,Red
+Cellar Selection Sauvignon Blanc 2019,New Zealand,Marlborough,Villa Maria,3.9,160,14.99,2019,
+Cabernet Sauvignon - Merlot 2016,South Africa,Paarl,Rupert & Rothschild,4.1,66,16.9,2016,Red
+Chiaretto Garda Classico 2019,Italy,Garda,Bulgarini,4.0,30,7.36,2019,
+Federspiel Grüner Veltliner 2018,Austria,Wachau,Domäne Wachau,3.6,80,10.49,2018,
+Charlie's Garden Shiraz 2015,Australia,Eden Valley,Two Hands,4.2,51,49.5,2015,Red
+Blanc de Noirs Brut Champagne N.V.,France,Champagne,Fleury,4.0,2181,40.95,N.V.,
+Rheinschiefer Hallgarten Riesling Trocken 2016,Germany,Rheingau,Peter Jakob Kühn,3.8,154,15.1,2016,
+Pomerol 2005,France,Pomerol,Château Gazin,4.4,460,139.95,2005,Red
+Cava Brut Reserva N.V.,Spain,Cava,Segura Viudas,3.6,4627,9.25,N.V.,
+Bordeaux Rouge 2017,France,Bordeaux,Baron Philippe de Rothschild,3.5,877,12.92,2017,Red
+Meursault Blanc 2016,France,Meursault,Bouchard Père & Fils,3.9,30,48.09,2016,
+Friulano 2018,Italy,Colli Orientali del Friuli,Livio Felluga,3.8,218,18.9,2018,
+Rosé 2017,Italy,Sicilia,Stemmari,3.5,54,5.84,2017,
+Sauvignon Blanc 2019,Chile,Central Valley,Valdivieso,3.5,116,7.75,2019,
+Roero Pradalupo Arneis 2018,Italy,Roero,Fontanafredda,3.8,229,10.93,2018,
+Réserve Languedoc Blanc 2018,France,Languedoc,Paul Mas,3.8,115,8.76,2018,
+AN/2 2018,Spain,Mallorca,Ànima Negra,4.1,111,19.99,2018,Red
+Spätburgunder 2016,Germany,Baden,Salwey,3.6,237,8.9,2016,Red
+Handwerk Spätburgunder 2018,Germany,Ahr,Julia Bertram,3.7,43,11.95,2018,Red
+Alto Sangiovese 2011,Italy,Toscana,Petra,3.9,64,39.58,2011,Red
+Malterdinger Alte Reben Spätburgunder 2016,Germany,Baden,Bernhard Huber,4.1,103,38.69,2016,Red
+Pessac-Léognan 2008,France,Pessac-Léognan,Château Larrivet Haut-Brion,4.0,487,49.95,2008,Red
+Cristal Brut Champagne (Millésimé) 2008,France,Champagne,Louis Roederer,4.6,2729,237.65,2008,
+Verdejo 2019,Spain,Rueda,Nava Real,3.4,34,7.95,2019,
+Feuerberg Spätburgunder GG 2011,Germany,Baden,Weingut Bercher,4.0,74,38.94,2011,Red
+Prosecco N.V.,Italy,Prosecco,Sacchetto,3.5,736,7.69,N.V.,
+Zinfandel Sonoma Heritage Vines 2017,United States,Dry Creek Valley,Rancho Zabaco,3.7,51,13.16,2017,Red
+Cabernet Sauvignon Toscana Collezione Privata 2011,Italy,Toscana,Isole e Olena,4.4,69,67.8,2011,Red
+Marne 180 Amarone della Valpolicella 2015,Italy,Amarone della Valpolicella,Tedeschi,4.3,1106,31.9,2015,Red
+Côtes De Gascogne Chardonnay 2018,France,Côtes de Gascogne,Domaine du Tariquet,3.5,65,7.0,2018,
+Haut-Médoc 2016,France,Haut-Médoc,Château Charmail,3.8,301,18.9,2016,Red
+Merlot - Syrah 2018,France,Côtes de Gascogne,Domaine du Mage,3.5,31,5.95,2018,Red
+Pinot Noir 2017,Italy,Valle d'Aosta,Ottin - Viticulteur Encaveur,4.0,106,22.5,2017,Red
+Old Adam Shiraz 2015,Australia,Langhorne Creek,Bremerton,4.2,80,42.89,2015,Red
+Sulzfelder Silvaner Alte Reben 2018,Germany,Franken,Zehnthof Luckert,3.7,39,16.73,2018,
+La Maîtresse 2017,France,Malepère,La Louvière,3.6,70,10.79,2017,Red
+Barolo Castellero 2011,Italy,Barolo,Giacomo Fenocchio,4.0,33,34.82,2011,Red
+Pinot Noir 2016,United States,Central Coast,Ryder Estate,3.4,84,15.9,2016,Red
+Chianti Colli Senesi 2018,Italy,Chianti Colli Senesi,Palagetto,3.4,69,8.95,2018,Red
+Château Trocard Bordeaux Supérieur 2012,France,Bordeaux Supérieur,Jean-Louis Trocard,3.2,132,9.26,2012,Red
+Kallista 2013,South Africa,Stellenbosch,Vriesenhof,4.1,130,29.19,2013,Red
+Pinot Noir 2016,Romania,Tarnave,Villa Vinea,3.5,40,10.9,2016,Red
+Merlot Veneto 2016,Italy,Veneto,Santa Margherita,3.5,287,6.96,2016,Red
+Cabernet Sauvignon de Purcari 2017,Moldova,South Eastern,Château Purcari,4.1,1082,12.98,2017,Red
+Vieilles Vignes Chardonnay 2018,France,Val de Loire,Moulin d'Argent,3.7,176,8.59,2018,
+Vinhas Velhas Tinto 2017,Portugal,Alentejo,Paulo Laureano,3.6,48,12.67,2017,Red
+Pomerol 2016,France,Pomerol,Château Gazin,4.0,167,138.7,2016,Red
+Sauvignon Blanc 2019,South Africa,Western Cape,Leopard’s Leap,3.5,131,7.23,2019,
+Triennia 2015,Spain,Ribera del Duero,Portia,3.9,28,59.0,2015,Red
+La Chapelle de La Mission Haut-Brion Pessac-Léognan 2015,France,Pessac-Léognan,Château La Mission Haut-Brion,4.3,147,136.24,2015,Red
+Corbières Blanc 2018,France,Corbières,Domaine des Deux Cles,3.9,73,16.9,2018,
+White Block Chardonnay 2018,Australia,Langhorne Creek,Bremerton,3.6,40,19.3,2018,
+Cabernet Sauvignon 2016,Australia,Barossa Valley,Schild Estate,3.9,155,15.9,2016,Red
+Opale 2018,Italy,Vermentino di Sardegna,Mesa,3.9,41,22.5,2018,
+Palazzo della Torre 2015,Italy,Verona,Allegrini,4.0,5655,16.08,2015,Red
+Ultra Brut Champagne (Brut Nature) N.V.,France,Champagne,Laurent-Perrier,4.1,2051,62.4,N.V.,
+Calestaia 2013,Italy,Morellino di Scansano,Roccapesta,4.0,93,36.7,2013,Red
+Scheurebe Trocken 2018,Germany,Pfalz,Weingut Weegmüller,3.7,51,8.4,2018,
+Black Label Nik Weis Bockstein Kabinett 2018,Germany,Mosel,St. Urbans-Hof,4.1,78,15.99,2018,
+Cuvée du Chaos Fleurie 2018,France,Fleurie,Les Bertrand,4.2,133,22.62,2018,Red
+Würzburger Stein Silvaner GG 2016,Germany,Franken,Juliusspital,4.0,27,29.9,2016,
+Carmenère Grande Reserve 2017,Chile,Colchagua Valley,Los Vascos,4.0,399,15.79,2017,Red
+Koonunga Hill Shiraz - Cabernet 2018,Australia,South Australia,Penfolds,3.7,1249,10.6,2018,Red
+Bärnreiser 2016,Austria,Carnuntum,Weingut Philipp Grassl,3.9,56,29.0,2016,Red
+Valdobbiadene Prosecco Superiore Millesimato Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Ca'Val,3.5,8371,13.95,N.V.,
+Terroir du Trias Bandol Rouge 2013,France,Bandol,Domaine de Terrebrune,4.1,167,34.9,2013,Red
+Pétalos 2018,Spain,Bierzo,Descendientes de J. Palacios,3.7,222,15.18,2018,Red
+Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Maschio dei Cavalieri,3.6,2617,10.29,N.V.,
+Anas-Cëtta Langhe Nascetta di Novello 2018,Italy,Langhe,Elvio Cogno,3.7,116,18.9,2018,
+Hermitage Le Chevalier de Sterimberg 2015,France,Hermitage,Paul Jaboulet Aîné,4.2,272,82.48,2015,
+Cabernet Sauvignon 2015,United States,California,Hacienda,3.8,100,7.95,2015,Red
+Rosato Frizzante N.V.,Italy,Veneto,Pizzolato,3.5,126,10.25,N.V.,
+Cabernet Sauvignon 2015,United States,Napa Valley,First Press,4.0,761,20.36,2015,Red
+Brunello di Montalcino 2012,Italy,Brunello di Montalcino,Argiano,4.1,1776,33.85,2012,Red
+Battiferro Morellino di Scansano 2018,Italy,Morellino di Scansano,Grillesino,3.6,50,9.99,2018,Red
+Boschen Blanc 2018,South Africa,Western Cape,Boschendal,3.7,257,7.99,2018,
+K-Naia 2019,Spain,Rueda,Naia,3.9,166,8.8,2019,
+Saga Médoc 2015,France,Médoc,Barons de Rothschild (Lafite),3.9,119,10.25,2015,Red
+The Chocolate Block 2018,South Africa,Franschhoek,Boekenhoutskloof,4.2,1780,25.75,2018,Red
+Saint-Julien (Grand Cru Classé) 1998,France,Saint-Julien,Château Léoville Barton,4.2,902,89.95,1998,Red
+Bianco di Merlot 2017,Switzerland,Ticino,Castello di Morcote,4.0,42,43.87,2017,
+Agathon 2014,Greece,Agio Oros,Tsantali,3.5,81,19.3,2014,Red
+Côtes du Rhône Villages Sablet 2010,France,Côtes-du-Rhône-Villages 'Sablet',Château du Trignon,3.8,70,10.67,2010,Red
+Gattinara 2016,Italy,Gattinara,Travaglini,4.0,1387,29.24,2016,Red
+Ribera del Duero Cosecha Marqués de Pluma 2016,Spain,Ribera del Duero,Pinord,3.5,300,5.9,2016,Red
+Podfuck 2016,Czech Republic,Morava,Milan Nestarec,4.0,151,28.9,2016,
+Le Vaglie Verdicchio dei Castelli di Jesi Classico 2018,Italy,Verdicchio dei Castelli di Jesi,Azienda Santa Barbara - Stefano Antonucci,3.9,483,10.9,2018,
+Brunello di Montalcino Poggio Al Granchio 2013,Italy,Brunello di Montalcino,Val di Suga,4.1,51,44.9,2013,Red
+Rioja Tempranillo 2018,Spain,Rioja,Antaño,3.3,257,4.45,2018,Red
+Terroir Series Sauvignon Blanc 2018,New Zealand,Marlborough,Brancott Estate,4.0,179,9.99,2018,
+Alte Reben Grüner Veltliner 2018,Austria,Carnuntum,Markowitsch,3.9,32,12.9,2018,
+Maria Adelaide Barbaresco 2004,Italy,Barbaresco,Bruno Rocca,4.5,45,145.5,2004,Red
+Malbec 2018,Argentina,Mendoza,Pascual Toso,3.8,486,10.01,2018,Red
+Re Manfredi Aglianico del Vulture 2016,Italy,Aglianico del Vulture,Terre degli Svevi,4.1,68,12.03,2016,Red
+Syrah Private Reserve 2015,Chile,Maule Valley,Aromo,3.3,44,12.19,2015,Red
+Negru de Purcari 2015,Moldova,South Eastern,Château Purcari,4.4,1168,98.98,2015,Red
+Domaine de Saint Pierre Cornas 2016,France,Cornas,Paul Jaboulet Aîné,4.0,32,81.58,2016,Red
+Riesling Trocken 2019,Germany,Pfalz,Georg Mosbacher,3.6,30,10.1,2019,
+Tempus 2018,Italy,Veneto,Stefano Accordini,3.8,106,10.42,2018,Red
+Rohstoff Chardonnay 2017,Austria,Burgenland,Hannes Reeh,4.1,117,15.2,2017,
+Pouilly-Fumé En Travertin 2017,France,Pouilly-Fumé,Henri Bourgeois,4.1,447,18.95,2017,
+Cabernet Sauvignon Rosé 2018,South Africa,Stellenbosch,Mulderbosch,3.6,443,8.67,2018,
+Mayro Montepulciano d'Abruzzo 2017,Italy,Montepulciano d'Abruzzo,Fosso Corno,3.8,44,6.9,2017,Red
+Vignealte Soave Classico 2018,Italy,Soave Classico,Zeni,3.8,135,6.7,2018,
+La Napoleon Beaujolais Villages 2018,France,Beaujolais-Villages,Clotaire Michal,3.7,34,16.09,2018,Red
+Cava Reserva Brut Cinta Purpura 2016,Spain,Cava,Juvé & Camps,3.8,251,12.95,2016,
+Medium Sweet Tinto 2018,Portugal,Lisboa,Portada,4.0,490,6.83,2018,Red
+Te Arai Vineyard Chenin Blanc 2016,New Zealand,Gisborne,Millton,4.0,189,19.45,2016,
+Barbera d'Alba Ciabot du Re 2010,Italy,Barbera d'Alba,Fratelli Revello,4.2,32,34.02,2010,Red
+Zinfandel 2018,Italy,Puglia,Epicuro,3.7,720,10.68,2018,Red
+Little James' Basket Press Blanc 2019,France,Pays d'Oc,Château de Saint Cosme,3.6,36,7.9,2019,
+Chardonnay 2014,South Africa,Hemel-en-Aarde Valley,Hamilton Russell Vineyards,4.1,830,36.79,2014,
+Parceto 2013,Italy,Vino Nobile di Montepulciano,Poggio Alla Sala,4.1,74,29.15,2013,Red
+Riesling Trocken 2018,Germany,Rheingau,Schloss Reinhartshausen,3.6,35,10.0,2018,
+Von Unserm Riesling Trocken 2018,Germany,Rheingau,Balthasar Ress,3.6,93,10.9,2018,
+Chenin Blanc 2019,South Africa,Stellenbosch,Simonsig,3.8,450,6.33,2019,
+Vougeot 1er Cru 'Les Petits Vougeots' 2013,France,Vougeot 1er Cru 'Les Petits Vougeots',Hudelot-Noëllat,4.1,33,77.5,2013,Red
+Gran Lurton Cabernet Sauvignon 2015,Argentina,Uco Valley,Bodega Piedra Negra,3.9,40,24.3,2015,Red
+Alentejano Tinto 2018,Portugal,Alentejano,Fitapreta,4.0,359,11.7,2018,Red
+Grüner Veltliner L & T (Leicht und Trocken) 2015,Austria,Niederösterreich,Weingut Bründlmayer,3.5,34,10.9,2015,
+Agnus Malbec 2015,Brazil,Encruzilhada do Sul,Lidio Carraro,3.4,352,12.62,2015,Red
+Reserva 2015,Spain,Ribera del Duero,Tinto Pesquera,4.2,691,29.9,2015,Red
+Hussonet Cabernet Sauvignon Gran Reserva 2018,Chile,Maipo Valley,Haras de Pirque,3.5,159,15.49,2018,Red
+Pinot Noir Carneros 2017,United States,Los Carneros,Schug,3.9,306,38.94,2017,Red
+Gelber Muskateller 2017,Austria,Südsteiermark,Lackner Tinnacher,3.4,31,12.6,2017,
+Pauillac (Grand Cru Classé) 2017,France,Pauillac,Château Pichon Baron,4.3,91,160.84,2017,Red
+Louro Godello 2019,Spain,Valdeorras,Rafael Palacios,4.2,97,19.9,2019,
+Semillón 2017,Argentina,Mendoza,El Enemigo,3.9,80,19.01,2017,

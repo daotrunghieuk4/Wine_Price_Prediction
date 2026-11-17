@@ -1,0 +1,4 @@
+-r WineRating/requirements.txt
+scikit-learn
+matplotlib
+notebook
